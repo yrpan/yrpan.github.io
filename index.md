@@ -1,26 +1,26 @@
-## Portfolio
+## Portfolio of Technical Projects
 
 ---
 
-### Selected Academic Projects (2017-2021)
+### Selected Academic Projects (2016-2021)
 
-selected Python, R, JS, and SQL sample projects are listed below, in their order
+Selected Python, R, JS, and SQL sample projects are listed below, in their order
 
-[Project 1 Title](/sample_page)
+[Real Estate Economic SLR Impact Prediction Tool (2020) - LARP 743: Geospatial Software Design](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Earth Engine JS: Land Suitability for real estate development - simplified scenario (2020) - LARP 743: Geospatial Software Design](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Machine Learning Narcotics Crime Prediction (2020) - MUSA 508: Public Policy Analytics](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-[ADF Fusion Web App - PLAN 387: Spatial Databases](http://example.com/)
+[ADF Fusion Web App - PLAN 387: Spatial Databases (2016)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -28,7 +28,7 @@ selected Python, R, JS, and SQL sample projects are listed below, in their order
 ### Selected Scientific Support Models & Tools (2018-2020)
 
 
-As a Scientific Support at Environment Canada from 2019- mid 2020, I produced a series of models and tools to support different scientific research initiatives, continued from my previous role as a Modeling Support Co-op Intern back in 2018. In addition to auto-generating file output directories and databases, all Python script-based models and tools are able to run directly through a standalone cmd prompt with a visual progress bar, time tracker and status updates. Generated outputs are usually in a colored visualization in a PDF report format, labeled and symbolized according to each chemical variable: 
+As a Scientific Support at Environment Canada from 2019- mid 2020, David produced a series of models and tools to support different scientific research initiatives, continued from his previous role as a Modeling Support Co-op Intern in 2018. In addition to auto-generating file output directories and databases, all Python script-based models and tools below are able to run directly through a standalone cmd prompt with a visual progress bar, time tracker and status updates. Generated outputs are usually in a colored visualization in a PDF report format, labeled and symbolized according to each chemical variable: 
 
 - [IDW & Kernel Water Quality Parameters Interpolation Tool (2018)](https://www.canada.ca/en/environment-climate-change.html)
 - [Sediment Thickness Prediction and Interpolation Models (2019-2020)](https://www.canada.ca/en/environment-climate-change.html)
