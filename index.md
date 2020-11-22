@@ -2,9 +2,9 @@
 
 ---
 
-### Selected Academic Projects (2020-2021)
+### Selected Academic Projects (2017-2021)
 
-Python, R and JS sample projects are listed below
+selected Python, R, JS, and SQL sample projects are listed below, in their order
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -16,6 +16,11 @@ Python, R and JS sample projects are listed below
 
 ---
 [Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[ADF Fusion Web App - PLAN 387: Spatial Databases](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
