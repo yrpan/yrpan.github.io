@@ -1,6 +1,8 @@
-## Portfolio of Scientific & Technical Works + Real Estate Finance
+## Portfolio of Scientific & Technical Works + Real Estate Finance 
 
 ---
+
+Note: This portfolio is still under construction*******
 
 ### Selected Real Estate coursework (2020-2021)
 
