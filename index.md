@@ -1,37 +1,52 @@
-## Portfolio of Technical Projects
+## Portfolio of Scientific & Technical Works + Real Estate Finance
 
 ---
 
-### Selected Academic Projects (2016-2021)
+### Selected Real Estate coursework (2020-2021)
+
+Case 2: REFEF: Waterfall Structure (2021) - REAL 840: Advanced Real Estate Investments and Analysis
+
+Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021) - REAL 840
+
+
+### Selected MUSA coursework (2016-2021)
 
 Selected Python, JS, R and SQL sample projects are listed below, one for each in their order. For other projects, please contact David directly.
 
-[Real Estate Economic SLR Impact Prediction Tool for New York City (2020) - LARP 743: Geospatial Software Design](/sample_page)
+[SLR Real Estate Damage Prediction Model for New York City, NY (programmed in Python), Dec 2020](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
-[Earth Engine JS: Global Land Suitability for Real Estate Development - simplified scenario (2020) - LARP 743: Geospatial Software Design](http://example.com/)
+[Global Real Estate Development Suitability Model (programmed in JavaScript), Dec 2020](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Machine Learning Narcotics Crime Prediction for Chicago, IL (2020) - MUSA 508: Public Policy Analytics](/pdf/sample_presentation.pdf)
+[Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python), Dec 2020 - MUSA 550 - Geospatial Data Science in Python](https://yrpan.github.io/MUSA550_finalproject/clustering-analysis/)
+
+
+---
+[Supervised Machine Learning: Narcotics-related Crime Prediction, Chicago, IL (programmed in R), Oct 2020 - MUSA 508 Public Policy Analytics](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-[ADF Fusion Web App - PLAN 387: Spatial Databases (2016)](http://example.com/)
+[ADF Fusion Web App (programmed in SQL), 2016 - PLAN 387: Spatial Databases](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Other Academic Projects (at Penn 2020-2021 & UW 2014-2019):
+### Other relevant Academic Projects (at Penn 2020-2021 & UW 2014-2019):
 
-- Machine Learning Residential Home Price Prediction for Miami, FL (2020): **R** (everything including maps & visualizations are in R)
-- OLS Median House Price Prediction for Philadelphia, PA (2020): **R** (except maps)
-- Spatial Lag, Spatial Error, GWR Median House Price Prediction for Philadelphia, PA (2020): software-based + **R**
+- Detecting NDVI and urban structures on Woody Island using satellite bands (programmed in JS), Feb 2021
+- K-Means Clustering, Philadelphia PA (programmed in R), Dec 2020
+- Point Pattern Analysis, Philadelphia, PA (programmed in R), Dec 2020
 - Calculating NDVI from satellite bands (NIR & Red) for Philadelphia, PA (2020): **Python** (which can be then used to calculate land surface temperature, given two thermal infrared bands)
-- Urban Street Network (Car Crashes) Interactive Visualizations: **Python**
+- Supervised Machine Learning: Single-Family Home Price Prediction for Miami, FL (programmed in R), Dec 2020
+- NDVI and Urban Network Analysis, Philadelphia, PA (programmed in Python), Oct 2020 – Nov 2020
+- Spatial Lag, Spatial Error, GWR Median House Price Prediction for Philadelphia, PA (ArcGIS + R), Nov 2020
+- Global Cumulative Travel Cost Estimation (programmed in JavaScript), Oct 2020
+- Supervised Machine Learning: Home Repair Tax Credits Benefit/Cost Prediction (programmed in R), Oct 2020
 - SLUCE2 LMM ABM Lab/ Von Thunen Land Rent Model (2019) - software-based
 - IDRISI Markov Cellular Automata Lab/ Land Cover Projection (2019) - software-based
 - SLUCE2 Hedonic Regression Lab (2019) - software-based
@@ -44,13 +59,13 @@ Selected Python, JS, R and SQL sample projects are listed below, one for each in
 ### Selected Scientific Support Models & Tools (2018-2020)
 
 
-As a Scientific Support at Environment Canada from 2019- mid 2020, David produced a series of models and tools to support different scientific research initiatives, continued from his previous role as a Modeling Support Co-op Intern in 2018. In addition to auto-generating file output directories and databases, all Python script-based models and tools below are able to run directly through a standalone cmd prompt with a visual progress bar, time tracker and status updates. Generated outputs are usually in a colored visualization in a PDF report format, labeled and symbolized according to each chemical variable: 
+As a Scientific Support at Environment Canada from 2019- mid 2020, David produced a series of models and tools to support different scientific research initiatives, continued from his previous 2018 role as a Modeling Support Co-op Intern. In addition to auto-generating file output directories and databases, all Python script-based models and tools below are able to run directly through a standalone cmd prompt with a visual progress bar, time tracker and status updates. Generated outputs are usually in a colored visualization in a PDF report format, labeled and symbolized according to each chemical variable: 
 
-- [IDW & Kernel Water Quality Parameters Interpolation Tool (2018)](https://www.canada.ca/en/environment-climate-change.html)
-- [Sediment Thickness Prediction and Interpolation Models (2019-2020)](https://www.canada.ca/en/environment-climate-change.html)
-- [Sediment Fractions Prediction and Interpolation Models (2019-2020)](https://www.canada.ca/en/environment-climate-change.html)
-- [Sediment Data Plotting Tools - Tracers, Heavy Metals, Soil Particles, Differences (2018,2019)](https://www.canada.ca/en/environment-climate-change.html)
-- [Chemical Concentration - Averaging & Hotspot Tool (2019-2020)](https://www.canada.ca/en/environment-climate-change.html)
+- [Water Chemical Concentration – Averaging & Hotspot Toolset (programmed in Python), 2019 – 2020](https://www.canada.ca/en/environment-climate-change.html)
+- [Water Sediment Fractions Prediction and Interpolation Toolset (programmed in Python), 2019 – 2020](https://www.canada.ca/en/environment-climate-change.html)
+- [Water Sediment Thickness Prediction and Interpolation Toolset (programmed in Python), 2019 – 2020](https://www.canada.ca/en/environment-climate-change.html)
+- [Water Sediment Data Plotting Toolset- Tracers, Heavy Metals, Soil Particles, Differences (programmed in Python), 2018 – 2019](https://www.canada.ca/en/environment-climate-change.html)
+- [IDW & Kernel Water Quality Parameters Interpolation Toolset (programmed in Python), 2018](https://www.canada.ca/en/environment-climate-change.html)
 
 Note*: These are the property of Environment Canada, Science & Technology Branch so I would not share the codes here
 
