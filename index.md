@@ -11,7 +11,7 @@ Case 2: REFEF: Waterfall Structure (2021) - REAL 840: Advanced Real Estate Inves
 Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021) - REAL 840
 
 
-### Selected MUSA coursework (2016-2021)
+### Selected MUSA & older UW coursework (2016-2021)
 
 Selected Python, JS, R and SQL sample projects are listed below, one for each in their order. For other projects, please contact David directly.
 
