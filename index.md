@@ -39,10 +39,11 @@ Selected Python, JS, R and SQL sample projects are listed below, one for each in
 ---
 
 ### Other relevant Academic Projects (at Penn 2020-2021 & UW 2014-2019):
-
+- Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python), Mar 2021
+- Supervised Machine Learning: Everyday Object Classification (K-NN & SVM) (programmed in Python), Feb 2021
 - Detecting NDVI and urban structures on Woody Island using satellite bands (programmed in JS), Feb 2021
-- K-Means Clustering, Philadelphia PA (programmed in R), Dec 2020
-- Point Pattern Analysis, Philadelphia, PA (programmed in R), Dec 2020
+- Heuristic/Unsupervised Machine Learning: K-Means Clustering, Philadelphia PA (programmed in R), Dec 2020
+- Point Pattern Analyses (NN, K-Functions), Philadelphia, PA (programmed in R), Dec 2020
 - Calculating NDVI from satellite bands (NIR & Red) for Philadelphia, PA (2020): **Python** (which can be then used to calculate land surface temperature, given two thermal infrared bands)
 - Supervised Machine Learning: Single-Family Home Price Prediction for Miami, FL (programmed in R), Dec 2020
 - NDVI and Urban Network Analysis, Philadelphia, PA (programmed in Python), Oct 2020 – Nov 2020
