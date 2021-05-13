@@ -42,11 +42,11 @@ Python, JS, R and SQL are the primary languages used
 
 ---
 
-[IDRISI Markov Cellular Automata Lab/ Land Cover Projection (software-based) - PLAN 416: Modeling the City](/pdf/416_example2.pdf)<img src="images/416_example2.png?raw=true"/>
+[IDRISI Markov Cellular Automata Lab/ Land Cover Projection (software-based) - PLAN 416: Modeling the City](/pdf/416_example2.pdf)<img src="images/416_example2.PNG?raw=true"/>
 
 ---
 
-[SLUCE2 Hedonic Regression Lab Report (software-based) - PLAN 416: Modeling the City](/pdf/416_example3.pdf)<img src="images/416_example3.png?raw=true"/>
+[SLUCE2 Hedonic Regression Lab Report (software-based) - PLAN 416: Modeling the City](/pdf/416_example3.pdf)<img src="images/416_example3.PNG?raw=true"/>
 
 
 ---
