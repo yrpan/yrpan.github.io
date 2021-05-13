@@ -2,15 +2,15 @@
 
 ---
 
-Note: This portfolio is still under construction*******
+Last Updated on May 13, 2021
 
 ### Selected Real Estate Finance & Investment coursework at the Wharton School (2020-2021)
 
-[Models for Case 2: Real Estate Private Equity Fund: Waterfall Structure (2021), David Pan & Theodore Lewis - REAL 840: Advanced Real Estate Investments and Analysis](https://www.wharton.upenn.edu/)
+[Models for Case 2: Real Estate Private Equity Fund: Waterfall Structure (2021), David Pan & Theodore Lewis - REAL 840: Advanced Real Estate Investments and Analysis†](https://www.wharton.upenn.edu/)
 
-[Models for Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021), David Pan & Theodore Lewis - REAL 840](https://www.wharton.upenn.edu/)
+[Models for Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021), David Pan & Theodore Lewis - REAL 840†](https://www.wharton.upenn.edu/)
 
-*Sharing of models is prohibited, please contact Wharton Real Estate Department for permission to view/evaluate
+†Sharing of models is prohibited, please contact Wharton Real Estate Department for permission to view/evaluate
 
 
 ### Selected Urban & Spatial Informatic coursework at the MUSA program of the Weitzman School (2020-2021)
@@ -33,20 +33,20 @@ Python, JS, R and SQL are the primary languages used
 
 ---
 
-[ADF Fusion Web App (programmed in SQL), 2016 - PLAN 387: Spatial Databases](/pdf/example_work1.pdf)
+[ADF Fusion Web App (programmed in SQL + JS Developer), 2016 - PLAN 387: Spatial Databases](/pdf/example_work1.pdf)
 <img src="images/visualization2.png?raw=true"/>
 
 ---
 
-[SLUCE2 LMM ABM Lab Report/ Von Thunen Land Rent Model - PLAN 416: Modeling the City](/pdf/example_work1.pdf)
+[SLUCE2 LMM ABM Lab Report/ Von Thunen Land Rent Model (software-based) - PLAN 416: Modeling the City](/pdf/416_example1.pdf)<img src="images/416_example1.PNG?raw=true"/>
 
 ---
 
-[IDRISI Markov Cellular Automata Lab/ Land Cover Projection - PLAN 416: Modeling the City](/pdf/example_work1.pdf)
+[IDRISI Markov Cellular Automata Lab/ Land Cover Projection (software-based) - PLAN 416: Modeling the City](/pdf/416_example2.pdf)<img src="images/416_example2.png?raw=true"/>
 
 ---
 
-[SLUCE2 Hedonic Regression Lab Report - PLAN 416: Modeling the City](/pdf/example_work1.pdf)
+[SLUCE2 Hedonic Regression Lab Report (software-based) - PLAN 416: Modeling the City](/pdf/416_example3.pdf)<img src="images/416_example3.png?raw=true"/>
 
 
 ---
@@ -77,13 +77,13 @@ Python, JS, R and SQL are the primary languages used
 
 From 2019 to mid 2020, David produced a series of spatial informatic models and tools to support different scientific research initiatives on inland waters: 
 
-- [Water Chemical Concentration – Averaging & Hotspot Toolset (programmed in Python), 2019 – 2020](https://www.canada.ca/en/environment-climate-change.html)
-- [Water Sediment Fractions Prediction and Interpolation Toolset (programmed in Python), 2019 – 2020](https://www.canada.ca/en/environment-climate-change.html)
-- [Water Sediment Thickness Prediction and Interpolation Toolset (programmed in Python), 2019 – 2020](https://www.canada.ca/en/environment-climate-change.html)
-- [Water Sediment Data Plotting Toolset- Tracers, Heavy Metals, Soil Particles, Differences (programmed in Python), 2018 – 2019](https://www.canada.ca/en/environment-climate-change.html)
-- [IDW & Kernel Water Quality Parameters Interpolation Toolset (programmed in Python), 2018](https://www.canada.ca/en/environment-climate-change.html)
+- [Water Chemical Concentration – Averaging & Hotspot Toolset (programmed in Python), 2019 – 2020†](https://www.canada.ca/en/environment-climate-change.html)
+- [Water Sediment Fractions Prediction and Interpolation Toolset (programmed in Python), 2019 – 2020†](https://www.canada.ca/en/environment-climate-change.html)
+- [Water Sediment Thickness Prediction and Interpolation Toolset (programmed in Python), 2019 – 2020†](https://www.canada.ca/en/environment-climate-change.html)
+- [Water Sediment Data Plotting Toolset- Tracers, Heavy Metals, Soil Particles, Differences (programmed in Python), 2018 – 2019†](https://www.canada.ca/en/environment-climate-change.html)
+- [IDW & Kernel Water Quality Parameters Interpolation Toolset (programmed in Python), 2018†](https://www.canada.ca/en/environment-climate-change.html)
 
-*Sharing of models and tools is prohibited, please contact Environment Canada, Science & Technology Branch, for permission to view/evaluate
+†Sharing of models and tools is prohibited, please contact Environment Canada, Science & Technology Branch, for permission to view/evaluate
 
 ---
 
