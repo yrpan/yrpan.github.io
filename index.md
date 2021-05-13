@@ -38,7 +38,7 @@ Python, JS, R and SQL are the primary languages used
 
 ---
 
-[SLUCE2 LMM ABM Lab Report/ Von Thunen Land Rent Model (software-based) - PLAN 416: Modeling the City](/pdf/416_example1.pdf)<img src="images/416_example1.PNG?raw=true"/>
+[SLUCE2 LMM ABM Lab Report/ Von Thunen Land Rent Model (software-based) - PLAN 416: Modeling the City](/pdf/416_example1a.pdf)<img src="images/416_example1.PNG?raw=true"/>
 
 ---
 
@@ -67,7 +67,6 @@ Python, JS, R and SQL are the primary languages used
 -	Global Cumulative Travel Cost Estimation (programmed in JavaScript)	Oct 2020
 -	Supervised Machine Learning: Home Repair Tax Credits Benefit/Cost Prediction (programmed in R)	Oct 2020
 -	Supervised Machine Learning: Narcotics-related Crime Prediction, Chicago, IL (programmed in R)	Oct 2020
-
 
 
 ---
