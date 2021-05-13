@@ -1,10 +1,10 @@
-## Portfolio of Spatial Informatics Works + Real Estate Financial Models & Analyses
+## Portfolio of Urban and Spatial Informatics Works + Real Estate Financial Models & Analyses
 
 ---
 
 Note: This portfolio is still under construction*******
 
-### Selected Real Estate coursework at the Wharton School (2020-2021)
+### Selected Real Estate Finance & Investment coursework at the Wharton School (2020-2021)
 
 Case 2: Real Estate Private Equity Fund: Waterfall Structure (2021) - REAL 840: Advanced Real Estate Investments and Analysis
 
@@ -13,7 +13,7 @@ Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, 
 *Sharing is prohibited
 
 
-### Selected Spatial Informatic coursework at MUSA (2020-2021)
+### Selected Urban & Spatial Informatic coursework at MUSA, Weitzman School (2020-2021)
 
 Python, JS, R and SQL are the primary languages used
 
@@ -29,7 +29,7 @@ Python, JS, R and SQL are the primary languages used
 [Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) - MUSA 650 - Geospatial Machine Learning in Remote Sensing](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Selected Spatial Informatic coursework at UW (2014-2019)
+### Selected Urban & Spatial Informatic coursework at UW (2014-2019)
 
 ---
 
@@ -51,7 +51,7 @@ Python, JS, R and SQL are the primary languages used
 
 ---
 
-### Other relevant Spatial Informatic Projects:
+### Other relevant Urban & Spatial Informatic coursework:
 -	Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python) 	Mar 2021
 -	Supervised Machine Learning: Everyday Object Classification (K-NN & SVM) (programmed in Python)	Feb 2021
 -	Detecting NDVI and urban structures on Woody Island using satellite bands (programmed in JS)	Feb 2021
