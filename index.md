@@ -1,4 +1,4 @@
-## Portfolio of Scientific & Technological Works + Real Estate Finance & Investments
+## Portfolio of Scientific & Technological Works + Real Estate Financial Models & Analyses
 
 ---
 
@@ -33,8 +33,8 @@ Selected Python, JS, R and SQL sample projects are listed below, one for each in
 
 ---
 
-[ADF Fusion Web App (programmed in SQL), 2016 - PLAN 387: Spatial Databases](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[ADF Fusion Web App (programmed in SQL), 2016 - PLAN 387: Spatial Databases](/pdf/example_work1.pdf)
+<img src="images/visualization2.png?raw=true"/>
 
 ---
 
