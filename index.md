@@ -4,32 +4,32 @@
 
 Note: This portfolio is still under construction*******
 
-### Selected Real Estate coursework (2020-2021)
+### Selected Real Estate coursework at the Wharton School (2020-2021)
 
-Case 2: REFEF: Waterfall Structure (2021) - REAL 840: Advanced Real Estate Investments and Analysis
+Case 2: Real Estate Private Equity Fund: Waterfall Structure (2021) - REAL 840: Advanced Real Estate Investments and Analysis
 
 Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021) - REAL 840
 
+*Sharing is prohibited
 
-### Selected MUSA & older UW coursework (2016-2021)
 
-Selected Python, JS, R and SQL sample projects are listed below, one for each in their order. For other projects, please contact David directly.
+### Selected Technological coursework at MUSA (2020-2021)
 
-[SLR Real Estate Damage Prediction Model for New York City, NY (programmed in Python), Dec 2020](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Python, JS, R and SQL are the primary languages used
+
+---
+[Supervised Ensemble Machine Learning: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python)](https://youtu.be/G51Yo04meWQ)
+<img src="images/tool1.png?raw=true"/>
+
+---
+[Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python), Dec 2020 - MUSA 550 - Geospatial Data Science](https://yrpan.github.io/MUSA550_finalproject/clustering-analysis/)<img src="images/visualization1.png?raw=true"/>
 
 
 ---
-[Global Real Estate Development Suitability Model (programmed in JavaScript), Dec 2020](http://example.com/)
+[Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) - MUSA 650 - Geospatial Machine Learning in Remote Sensing](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python), Dec 2020 - MUSA 550 - Geospatial Data Science in Python](https://yrpan.github.io/MUSA550_finalproject/clustering-analysis/)<img src="images/visualization1.png?raw=true"/>
-
-
----
-[Supervised Machine Learning: Narcotics-related Crime Prediction, Chicago, IL (programmed in R), Oct 2020 - MUSA 508 Public Policy Analytics](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Selected Technological coursework at UW (2014-2019)
 
 ---
 
@@ -38,23 +38,38 @@ Selected Python, JS, R and SQL sample projects are listed below, one for each in
 
 ---
 
-### Other relevant Academic Projects (at Penn 2020-2021 & UW 2014-2019):
-- Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python), Mar 2021
-- Supervised Machine Learning: Everyday Object Classification (K-NN & SVM) (programmed in Python), Feb 2021
-- Detecting NDVI and urban structures on Woody Island using satellite bands (programmed in JS), Feb 2021
-- Heuristic/Unsupervised Machine Learning: K-Means Clustering, Philadelphia PA (programmed in R), Dec 2020
-- Point Pattern Analyses (NN, K-Functions), Philadelphia, PA (programmed in R), Dec 2020
-- Calculating NDVI from satellite bands (NIR & Red) for Philadelphia, PA (2020): **Python** (which can be then used to calculate land surface temperature, given two thermal infrared bands)
-- Supervised Machine Learning: Single-Family Home Price Prediction for Miami, FL (programmed in R), Dec 2020
-- NDVI and Urban Network Analysis, Philadelphia, PA (programmed in Python), Oct 2020 – Nov 2020
-- Spatial Lag, Spatial Error, GWR Median House Price Prediction for Philadelphia, PA (ArcGIS + R), Nov 2020
-- Global Cumulative Travel Cost Estimation (programmed in JavaScript), Oct 2020
-- Supervised Machine Learning: Home Repair Tax Credits Benefit/Cost Prediction (programmed in R), Oct 2020
-- SLUCE2 LMM ABM Lab/ Von Thunen Land Rent Model (2019) - software-based
-- IDRISI Markov Cellular Automata Lab/ Land Cover Projection (2019) - software-based
-- SLUCE2 Hedonic Regression Lab (2019) - software-based
-- Aggravated Crime Prediction & Network Analysis Model for Chicago, IL - crime predicted from property types (2018): software-based + **Python** 
-- & dozens more
+[SLUCE2 LMM ABM Lab Report/ Von Thunen Land Rent Model - PLAN 416: Modeling the City](/pdf/example_work1.pdf)
+
+---
+
+[IDRISI Markov Cellular Automata Lab/ Land Cover Projection - PLAN 416: Modeling the City](/pdf/example_work1.pdf)
+
+---
+
+[SLUCE2 Hedonic Regression Lab Report - PLAN 416: Modeling the City](/pdf/example_work1.pdf)
+
+
+---
+
+### Other relevant Academic Projects:
+•	Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) May 2021
+•	Ensemble Machine Learning: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python)		May 2021
+•	Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python) 	Mar 2021
+•	Supervised Machine Learning: Everyday Object Classification (K-NN & SVM) (programmed in Python)	Feb 2021
+•	Detecting NDVI and urban structures on Woody Island using satellite bands (programmed in JS)	Feb 2021
+•	Global Real Estate Development Suitability Model (programmed in JavaScript)	Dec 2020
+•	Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python)	Dec 2020
+•	Heuristic/Unsupervised Machine Learning: K-Means Clustering, Philadelphia, PA (programmed in R)	Dec 2020
+•	Point Pattern Analyses (NN, K-Functions), Philadelphia, PA (programmed in R)	Dec 2020
+•	SLR Real Estate Damage Prediction Model for New York City, NY (programmed in Python)	Dec 2020
+•	Supervised Machine Learning (Random Forest): Single-Family Home Price Prediction for Philadelphia, PA (programmed in Python)	Dec 2020
+•	Supervised Machine Learning: Single-Family Home Price Prediction for Miami, FL (programmed in R)	Dec 2020
+•	NDVI and Urban Network Analysis, Philadelphia, PA (programmed in Python)	Oct 2020 – Nov 2020
+•	Spatial Lag, Spatial Error, GWR Median House Price Prediction for Philadelphia, PA (ArcGIS + R)	Nov 2020
+•	Global Cumulative Travel Cost Estimation (programmed in JavaScript)	Oct 2020
+•	Supervised Machine Learning: Home Repair Tax Credits Benefit/Cost Prediction (programmed in R)	Oct 2020
+•	Supervised Machine Learning: Narcotics-related Crime Prediction, Chicago, IL (programmed in R)	Oct 2020
+
 
 
 ---
