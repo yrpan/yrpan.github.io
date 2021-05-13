@@ -1,4 +1,4 @@
-## Portfolio of Scientific & Technological Works + Real Estate Financial Models & Analyses
+## Portfolio of Spatial Informatics Works + Real Estate Financial Models & Analyses
 
 ---
 
@@ -13,7 +13,7 @@ Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, 
 *Sharing is prohibited
 
 
-### Selected Technological coursework at MUSA (2020-2021)
+### Selected Spatial Informatic coursework at MUSA (2020-2021)
 
 Python, JS, R and SQL are the primary languages used
 
@@ -29,7 +29,7 @@ Python, JS, R and SQL are the primary languages used
 [Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) - MUSA 650 - Geospatial Machine Learning in Remote Sensing](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Selected Technological coursework at UW (2014-2019)
+### Selected Spatial Informatic coursework at UW (2014-2019)
 
 ---
 
@@ -51,24 +51,22 @@ Python, JS, R and SQL are the primary languages used
 
 ---
 
-### Other relevant Academic Projects:
-•	Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) May 2021
-•	Ensemble Machine Learning: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python)		May 2021
-•	Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python) 	Mar 2021
-•	Supervised Machine Learning: Everyday Object Classification (K-NN & SVM) (programmed in Python)	Feb 2021
-•	Detecting NDVI and urban structures on Woody Island using satellite bands (programmed in JS)	Feb 2021
-•	Global Real Estate Development Suitability Model (programmed in JavaScript)	Dec 2020
-•	Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python)	Dec 2020
-•	Heuristic/Unsupervised Machine Learning: K-Means Clustering, Philadelphia, PA (programmed in R)	Dec 2020
-•	Point Pattern Analyses (NN, K-Functions), Philadelphia, PA (programmed in R)	Dec 2020
-•	SLR Real Estate Damage Prediction Model for New York City, NY (programmed in Python)	Dec 2020
-•	Supervised Machine Learning (Random Forest): Single-Family Home Price Prediction for Philadelphia, PA (programmed in Python)	Dec 2020
-•	Supervised Machine Learning: Single-Family Home Price Prediction for Miami, FL (programmed in R)	Dec 2020
-•	NDVI and Urban Network Analysis, Philadelphia, PA (programmed in Python)	Oct 2020 – Nov 2020
-•	Spatial Lag, Spatial Error, GWR Median House Price Prediction for Philadelphia, PA (ArcGIS + R)	Nov 2020
-•	Global Cumulative Travel Cost Estimation (programmed in JavaScript)	Oct 2020
-•	Supervised Machine Learning: Home Repair Tax Credits Benefit/Cost Prediction (programmed in R)	Oct 2020
-•	Supervised Machine Learning: Narcotics-related Crime Prediction, Chicago, IL (programmed in R)	Oct 2020
+### Other relevant Spatial Informatic Projects:
+-	Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python) 	Mar 2021
+-	Supervised Machine Learning: Everyday Object Classification (K-NN & SVM) (programmed in Python)	Feb 2021
+-	Detecting NDVI and urban structures on Woody Island using satellite bands (programmed in JS)	Feb 2021
+-	Global Real Estate Development Suitability Model (programmed in JavaScript)	Dec 2020
+-	Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python)	Dec 2020
+-	Heuristic/Unsupervised Machine Learning: K-Means Clustering, Philadelphia, PA (programmed in R)	Dec 2020
+-	Point Pattern Analyses (NN, K-Functions), Philadelphia, PA (programmed in R)	Dec 2020
+-	SLR Real Estate Damage Prediction Model for New York City, NY (programmed in Python)	Dec 2020
+-	Supervised Machine Learning (Random Forest): Single-Family Home Price Prediction for Philadelphia, PA (programmed in Python)	Dec 2020
+-	Supervised Machine Learning: Single-Family Home Price Prediction for Miami, FL (programmed in R)	Dec 2020
+-	NDVI and Urban Network Analysis, Philadelphia, PA (programmed in Python)	Oct 2020 – Nov 2020
+-	Spatial Lag, Spatial Error, GWR Median House Price Prediction for Philadelphia, PA (ArcGIS + R)	Nov 2020
+-	Global Cumulative Travel Cost Estimation (programmed in JavaScript)	Oct 2020
+-	Supervised Machine Learning: Home Repair Tax Credits Benefit/Cost Prediction (programmed in R)	Oct 2020
+-	Supervised Machine Learning: Narcotics-related Crime Prediction, Chicago, IL (programmed in R)	Oct 2020
 
 
 
@@ -77,7 +75,7 @@ Python, JS, R and SQL are the primary languages used
 ### Environment Canada, Water Science & Technology (2018-2020)
 
 
-From 2019 to mid 2020, David produced a series of models and tools to support different scientific research initiatives: 
+From 2019 to mid 2020, David produced a series of spatial informatic models and tools to support different scientific research initiatives on inland waters: 
 
 - [Water Chemical Concentration – Averaging & Hotspot Toolset (programmed in Python), 2019 – 2020](https://www.canada.ca/en/environment-climate-change.html)
 - [Water Sediment Fractions Prediction and Interpolation Toolset (programmed in Python), 2019 – 2020](https://www.canada.ca/en/environment-climate-change.html)
