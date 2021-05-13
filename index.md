@@ -38,7 +38,7 @@ Python, JS, R and SQL are the primary languages used
 
 ---
 
-[SLUCE2 LMM ABM Lab Report/ Von Thunen Land Rent Model (software-based) <br> - PLAN 416: Modeling the City](/pdf/416_example1.pdf)<img src="images/416_example1.PNG?raw=true"/>
+[SLUCE2 LMM ABM Lab Report/ Von Thunen Land Rent Model (software-based) - PLAN 416: Modeling the City](/pdf/416_example1.pdf)<img src="images/416_example1.PNG?raw=true"/>
 
 ---
 
