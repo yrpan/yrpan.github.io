@@ -13,12 +13,12 @@ Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, 
 *Sharing is prohibited
 
 
-### Selected Urban & Spatial Informatic coursework at MUSA, Weitzman School (2020-2021)
+### Selected Urban & Spatial Informatic coursework at the MUSA program of the Weitzman School (2020-2021)
 
 Python, JS, R and SQL are the primary languages used
 
 ---
-[Supervised Ensemble Machine Learning: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python)](https://youtu.be/G51Yo04meWQ)
+[Supervised Ensemble Machine Learning: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python) - Independent Study Capstone Project Course under Professor Charles Dana Tomlin](https://youtu.be/G51Yo04meWQ)
 <img src="images/tool1.png?raw=true"/>
 
 ---
@@ -26,8 +26,8 @@ Python, JS, R and SQL are the primary languages used
 
 
 ---
-[Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) - MUSA 650 - Geospatial Machine Learning in Remote Sensing](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) - MUSA 650 - Geospatial Machine Learning in Remote Sensing](/pdf/example_work2.pdf)
+<img src="images/visualization3.png?raw=true"/>
 
 ### Selected Urban & Spatial Informatic coursework at UW (2014-2019)
 
