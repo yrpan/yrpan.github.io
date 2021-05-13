@@ -1,4 +1,4 @@
-## Portfolio of Scientific & Technical Works + Real Estate Finance 
+## Portfolio of Scientific & Technological Works + Real Estate Finance & Investments
 
 ---
 
@@ -24,7 +24,7 @@ Selected Python, JS, R and SQL sample projects are listed below, one for each in
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python), Dec 2020 - MUSA 550 - Geospatial Data Science in Python](https://yrpan.github.io/MUSA550_finalproject/clustering-analysis/)
+[Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python), Dec 2020 - MUSA 550 - Geospatial Data Science in Python](https://yrpan.github.io/MUSA550_finalproject/clustering-analysis/)<img src="images/visualization1.png?raw=true"/>
 
 
 ---
@@ -59,10 +59,10 @@ Selected Python, JS, R and SQL sample projects are listed below, one for each in
 
 ---
 
-### Selected Scientific Support Models & Tools (2018-2020)
+### Environment Canada, Water Science & Technology (2018-2020)
 
 
-As a Scientific Support at Environment Canada from 2019- mid 2020, David produced a series of models and tools to support different scientific research initiatives, continued from his previous 2018 role as a Modeling Support Co-op Intern. In addition to auto-generating file output directories and databases, all Python script-based models and tools below are able to run directly through a standalone cmd prompt with a visual progress bar, time tracker and status updates. Generated outputs are usually in a colored visualization in a PDF report format, labeled and symbolized according to each chemical variable: 
+From 2019 to mid 2020, David produced a series of models and tools to support different scientific research initiatives: 
 
 - [Water Chemical Concentration – Averaging & Hotspot Toolset (programmed in Python), 2019 – 2020](https://www.canada.ca/en/environment-climate-change.html)
 - [Water Sediment Fractions Prediction and Interpolation Toolset (programmed in Python), 2019 – 2020](https://www.canada.ca/en/environment-climate-change.html)
@@ -70,7 +70,6 @@ As a Scientific Support at Environment Canada from 2019- mid 2020, David produce
 - [Water Sediment Data Plotting Toolset- Tracers, Heavy Metals, Soil Particles, Differences (programmed in Python), 2018 – 2019](https://www.canada.ca/en/environment-climate-change.html)
 - [IDW & Kernel Water Quality Parameters Interpolation Toolset (programmed in Python), 2018](https://www.canada.ca/en/environment-climate-change.html)
 
-Note*: These are the property of Environment Canada, Science & Technology Branch so I would not share the codes here
 
 ---
 
