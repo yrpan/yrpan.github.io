@@ -6,11 +6,11 @@ Note: This portfolio is still under construction*******
 
 ### Selected Real Estate Finance & Investment coursework at the Wharton School (2020-2021)
 
-Case 2: Real Estate Private Equity Fund: Waterfall Structure (2021) - REAL 840: Advanced Real Estate Investments and Analysis
+[Case 2: Real Estate Private Equity Fund: Waterfall Structure (2021), David Pan & Theodore Lewis - REAL 840: Advanced Real Estate Investments and Analysis](https://www.wharton.upenn.edu/)
 
-Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021) - REAL 840
+[Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021), David Pan & Theodore Lewis - REAL 840](https://www.wharton.upenn.edu/)
 
-*Sharing is prohibited
+*Sharing of content is prohibited, please contact Wharton Real Estate department for permission to view/evaluate
 
 
 ### Selected Urban & Spatial Informatic coursework at the MUSA program of the Weitzman School (2020-2021)
@@ -83,6 +83,7 @@ From 2019 to mid 2020, David produced a series of spatial informatic models and 
 - [Water Sediment Data Plotting Toolset- Tracers, Heavy Metals, Soil Particles, Differences (programmed in Python), 2018 – 2019](https://www.canada.ca/en/environment-climate-change.html)
 - [IDW & Kernel Water Quality Parameters Interpolation Toolset (programmed in Python), 2018](https://www.canada.ca/en/environment-climate-change.html)
 
+*Sharing of content is prohibited, please contact Environment Canada, Science & Technology Branch, for permission to view/evaluate
 
 ---
 
