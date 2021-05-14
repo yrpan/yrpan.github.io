@@ -59,19 +59,33 @@ Python, JS, R and SQL are the primary languages used
 
 ### Other relevant Urban & Spatial Informatic coursework at Penn:
 -	Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python) 	Mar 2021
+
 -	Supervised Machine Learning: Everyday Object Classification (K-NN & SVM) (programmed in Python)	Feb 2021
+
 -	Detecting NDVI and urban structures on Woody Island using satellite bands (programmed in JS)	Feb 2021
+
 -	Global Real Estate Development Suitability Model (programmed in JavaScript)	Dec 2020
+
 -	Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python)	Dec 2020
+
 -	Heuristic/Unsupervised Machine Learning: K-Means Clustering, Philadelphia, PA (programmed in R)	Dec 2020
+
 -	Point Pattern Analyses (NN, K-Functions), Philadelphia, PA (programmed in R)	Dec 2020
+
 -	SLR Real Estate Damage Prediction Model for New York City, NY (programmed in Python)	Dec 2020
+
 -	Supervised Machine Learning (Random Forest): Single-Family Home Price Prediction for Philadelphia, PA (programmed in Python)	Dec 2020
+
 -	Supervised Machine Learning: Single-Family Home Price Prediction for Miami, FL (programmed in R)	Dec 2020
+
 -	NDVI and Urban Network Analysis, Philadelphia, PA (programmed in Python)	Oct 2020 – Nov 2020
+
 -	Spatial Lag, Spatial Error, GWR Median House Price Prediction for Philadelphia, PA (ArcGIS + R)	Nov 2020
+
 -	Global Cumulative Travel Cost Estimation (programmed in JavaScript)	Oct 2020
+
 -	Supervised Machine Learning: Home Repair Tax Credits Benefit/Cost Prediction (programmed in R)	Oct 2020
+
 -	Supervised Machine Learning: Narcotics-related Crime Prediction, Chicago, IL (programmed in R)	Oct 2020
 
 
