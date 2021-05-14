@@ -12,6 +12,7 @@ Last Updated on May 13, 2021
 [Models for Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021), David Pan & Theodore Lewis - REAL 840†](https://www.wharton.upenn.edu/)
 
 †Sharing of models is prohibited, please contact Wharton Real Estate Department for permission to view/evaluate
+
 ---
 
 ### Selected Urban & Spatial Informatic coursework 
