@@ -4,7 +4,8 @@
 
 Last Updated on May 13, 2021
 
-### Selected Real Estate Finance & Investment coursework at the Wharton School (2020-2021)
+### Selected Real Estate Finance & Investment coursework
+### at the Wharton School (2020-2021)
 
 [Models for Case 2: Real Estate Private Equity Fund: Waterfall Structure (2021), David Pan & Theodore Lewis - REAL 840: Advanced Real Estate Investments and Analysis†](https://www.wharton.upenn.edu/)
 
@@ -13,7 +14,8 @@ Last Updated on May 13, 2021
 †Sharing of models is prohibited, please contact Wharton Real Estate Department for permission to view/evaluate
 
 
-### Selected Urban & Spatial Informatic coursework at the MUSA program of the Weitzman School (2020-2021)
+### Selected Urban & Spatial Informatic coursework 
+### at the MUSA program of the Weitzman School (2020-2021)
 
 Python, JS, R and SQL are the primary languages used
 
@@ -29,7 +31,8 @@ Python, JS, R and SQL are the primary languages used
 [Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) - MUSA 650 - Geospatial Machine Learning in Remote Sensing](/pdf/example_work2.pdf)
 <img src="images/visualization3.png?raw=true"/>
 
-### Selected Urban & Spatial Informatic coursework at my undergraduate school, the University of Waterloo (2014-2019)
+### Selected Urban & Spatial Informatic coursework 
+### at my undergraduate school UWaterloo (2014-2019)
 
 ---
 
@@ -51,7 +54,7 @@ Python, JS, R and SQL are the primary languages used
 
 ---
 
-### Other relevant Urban & Spatial Informatic coursework:
+### Other relevant Urban & Spatial Informatic coursework at Penn:
 -	Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python) 	Mar 2021
 -	Supervised Machine Learning: Everyday Object Classification (K-NN & SVM) (programmed in Python)	Feb 2021
 -	Detecting NDVI and urban structures on Woody Island using satellite bands (programmed in JS)	Feb 2021
@@ -71,7 +74,7 @@ Python, JS, R and SQL are the primary languages used
 
 ---
 
-### Environment Canada, Water Science & Technology (2018-2020)
+### Professional works at Environment Canada, Water Science & Technology (2018-2020)
 
 
 From 2019 to mid 2020, David produced a series of spatial informatic models and tools to support different scientific research initiatives on inland waters: 
