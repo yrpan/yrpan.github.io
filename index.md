@@ -13,7 +13,7 @@
 
 - [Models for Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021), David Pan & Theodore Lewis - REAL 840†](https://www.wharton.upenn.edu/)
 
-†Sharing of models is prohibited, please contact Wharton Real Estate Department for permission to view/evaluate
+†Sharing of models is currently prohibited, please contact Wharton Real Estate Department for permission to view/evaluate
 
 ---
 
@@ -83,12 +83,16 @@ Python, JS, R and SQL are the primary languages used
 From 2019 to mid 2020, David produced a series of spatial informatic models and tools to support different scientific research initiatives on inland waters: 
 
 - [Water Chemical Concentration – Averaging & Hotspot Toolset (programmed in Python), 2019 – 2020†](https://www.canada.ca/en/environment-climate-change.html)
+
 - [Water Sediment Fractions Prediction and Interpolation Toolset (programmed in Python), 2019 – 2020†](https://www.canada.ca/en/environment-climate-change.html)
+
 - [Water Sediment Thickness Prediction and Interpolation Toolset (programmed in Python), 2019 – 2020†](https://www.canada.ca/en/environment-climate-change.html)
+
 - [Water Sediment Data Plotting Toolset- Tracers, Heavy Metals, Soil Particles, Differences (programmed in Python), 2018 – 2019†](https://www.canada.ca/en/environment-climate-change.html)
+
 - [IDW & Kernel Water Quality Parameters Interpolation Toolset (programmed in Python), 2018†](https://www.canada.ca/en/environment-climate-change.html)
 
-†Sharing of models and tools is prohibited, please contact Environment Canada, Science & Technology Branch, for permission to view/evaluate
+†Sharing of models and tools is currently prohibited, please contact Environment Canada, Science & Technology Branch, for permission to view/evaluate
 
 ---
 
