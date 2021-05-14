@@ -2,10 +2,12 @@
 
 ---
 
-Last Updated on May 13, 2021
+<i>Last Updated on May 13, 2021</i>
 
 ### Selected Real Estate Finance & Investment coursework
 ### at the Wharton School (2020-2021)
+
+---
 
 [Models for Case 2: Real Estate Private Equity Fund: Waterfall Structure (2021), David Pan & Theodore Lewis - REAL 840: Advanced Real Estate Investments and Analysis†](https://www.wharton.upenn.edu/)
 
