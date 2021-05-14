@@ -34,6 +34,8 @@ Python, JS, R and SQL are the primary languages used
 [Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) - MUSA 650 - Geospatial Machine Learning in Remote Sensing](/pdf/example_work2.pdf)
 <img src="images/visualization3.png?raw=true"/>
 
+---
+
 ### Selected Urban & Spatial Informatic coursework 
 ### at my undergraduate school UWaterloo (2014-2019)
 
