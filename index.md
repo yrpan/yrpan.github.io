@@ -17,7 +17,7 @@
 
 ---
 
-### Selected Urban & Spatial Informatic coursework 
+### Selected Urban & Spatial Informatics coursework 
 ### at the MUSA program of the Weitzman School (2020-2021)
 
 Python, JS, R and SQL are the primary languages used
@@ -59,7 +59,7 @@ Python, JS, R and SQL are the primary languages used
 
 ---
 
-### Other relevant Urban & Spatial Informatic coursework at Penn:
+### Other relevant Urban & Spatial Informatics coursework at Penn:
 -	Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python) 	Mar 2021
 
 -	Supervised Machine Learning: Everyday Object Classification (K-NN & SVM) (programmed in Python)	Feb 2021
@@ -96,7 +96,7 @@ Python, JS, R and SQL are the primary languages used
 ### Professional works at Environment Canada, Water Science & Technology (2018-2020)
 
 
-From 2019 to mid 2020, David produced a series of spatial informatic models and tools to support different scientific research initiatives on inland waters: 
+From 2018 to mid 2020, David produced a series of spatial informatics models and tools to support different scientific research initiatives on inland waters, alongside senior Physical Scientists: 
 
 - <b>Potential role of sediment resuspension on nutrient dynamics in Lake of the Woods.</b> Reza Valipour, Ian Droppo, Johann Biberhofer, Jun Zhao, and Yuanrong Pan (2020). Environment Canada, Water Science and Technology. 2020 International Lake of the Woods Watershed Forum <i>[Physical Science Publication]</i>.<img src="images/publication.PNG?raw=true"/>
 
