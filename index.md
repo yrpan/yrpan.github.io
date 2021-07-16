@@ -98,6 +98,8 @@ Python, JS, R and SQL are the primary languages used
 
 From 2019 to mid 2020, David produced a series of spatial informatic models and tools to support different scientific research initiatives on inland waters: 
 
+- [(Physical Science Publication) Potential role of sediment resuspension on nutrient dynamics in Lake of the Woods. Reza Valipour, Ian Droppo, Johann Biberhofer, Jun Zhao, and Yuanrong Pan (2020). Environment Canada, Water Science and Technology. 2020 International Lake of the Woods Watershed Forum.](/images/publication.PNG)<img src="images/publication.PNG?raw=true"/>
+
 - [Water Chemical Concentration – Averaging & Hotspot Toolset (programmed in Python), 2019 – 2020†](https://www.canada.ca/en/environment-climate-change.html)
 
 - [Water Sediment Fractions Prediction and Interpolation Toolset (programmed in Python), 2019 – 2020†](https://www.canada.ca/en/environment-climate-change.html)
