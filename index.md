@@ -36,7 +36,7 @@ Python, JS, R and SQL are the primary languages used
 
 ---
 
-### Selected Urban & Spatial Informatic coursework 
+### Selected Urban & Spatial Informatics coursework 
 ### at my undergraduate school UWaterloo (2014-2019)
 
 ---
