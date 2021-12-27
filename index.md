@@ -3,6 +3,7 @@
 ---
 
 <i>Last Updated on May 13, 2021</i>
+<i>[Not to be confused with David's Portfolio of Art & Design](/pdf/portfolio_AD.pdf)</i>
 
 ### Selected Real Estate Finance & Investment coursework
 ### at the Wharton School (2020-2021)
