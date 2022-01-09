@@ -16,7 +16,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #555;
+  background-color: #050A30;
   color: white;
 }
 </style>
