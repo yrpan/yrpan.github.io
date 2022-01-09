@@ -116,7 +116,7 @@ From 2018 to mid 2020, David produced a series of spatial informatics models and
 
 ---
 
-
+<i>DAVID'S PORTFOLIO OF URBAN/SPATIAL INFORMATICS & REAL ESTATE FINANCIAL MODELING (2014-2021)</i>
 
 
 ---
