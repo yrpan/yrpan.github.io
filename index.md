@@ -40,8 +40,8 @@ Navigation:
   <li><a href="#section3">Urban/Spatial Informatics Modeling - Part II</a></li>
   <li><a href="#section4">Urban/Spatial Informatics Modeling - Part III</a></li>
 </ul>
-
-<i>Last Updated on May 13, 2021</i>
+<br>
+<i>Last Updated: May 13, 2021</i>
 <br>
 <i>Not to be confused with [David's Portfolio of Conceptual Art & Design](/pdf/portfolio_AD.pdf)</i>
 
