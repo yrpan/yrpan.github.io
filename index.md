@@ -1,6 +1,32 @@
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+</style>
+</head>
+
 ## David's Portfolio of Urban/Spatial Informatics Works + Real Estate Financial Models
 
 ---
+
+Navigation:
 
 <ul>
   <li><a href="#section1">Real Estate Financial Modeling</a></li>
@@ -36,15 +62,18 @@
 <i>Python, JS, R and SQL are the primary languages used</i>
 
 ---
-[Supervised Ensemble Machine Learning: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python) - Independent Study Capstone Project Course under Professor Charles Dana Tomlin](https://youtu.be/G51Yo04meWQ)
+
+- [Supervised Ensemble Machine Learning: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python) - Independent Study Capstone Project Course under Professor Charles Dana Tomlin](https://youtu.be/G51Yo04meWQ)
 <img src="images/tool1.png?raw=true"/>
 
 ---
-[Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python), Dec 2020 - MUSA 550 - Geospatial Data Science](https://yrpan.github.io/MUSA550_finalproject/clustering-analysis/)<img src="images/visualization1.png?raw=true"/>
+
+- [Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python), Dec 2020 - MUSA 550 - Geospatial Data Science](https://yrpan.github.io/MUSA550_finalproject/clustering-analysis/)<img src="images/visualization1.png?raw=true"/>
 
 
 ---
-[Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) - MUSA 650 - Geospatial Machine Learning in Remote Sensing](/pdf/example_work2.pdf)
+
+- [Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) - MUSA 650 - Geospatial Machine Learning in Remote Sensing](/pdf/example_work2.pdf)
 <img src="images/visualization3.png?raw=true"/>
 
 ---
@@ -56,20 +85,20 @@
 
 ---
 
-[ADF Fusion Web App (programmed in SQL + JS Developer), 2016 - PLAN 387: Spatial Databases](/pdf/example_work1.pdf)
+- [ADF Fusion Web App (programmed in SQL + JS Developer), 2016 - PLAN 387: Spatial Databases](/pdf/example_work1.pdf)
 <img src="images/visualization2.png?raw=true"/>
 
 ---
 
-[SLUCE2 LMM ABM Lab Report/ Von Thunen Land Rent Model (software-based) - PLAN 416: Modeling the City](/pdf/416_example1.pdf)<img src="images/416_example1a.PNG?raw=true"/>
+- [SLUCE2 LMM ABM Lab Report/ Von Thunen Land Rent Model (software-based) - PLAN 416: Modeling the City](/pdf/416_example1.pdf)<img src="images/416_example1a.PNG?raw=true"/>
 
 ---
 
-[IDRISI Markov Cellular Automata Lab/ Land Cover Projection (software-based) - PLAN 416: Modeling the City](/pdf/416_example2.pdf)<img src="images/416_example2.PNG?raw=true"/>
+- [IDRISI Markov Cellular Automata Lab/ Land Cover Projection (software-based) - PLAN 416: Modeling the City](/pdf/416_example2.pdf)<img src="images/416_example2.PNG?raw=true"/>
 
 ---
 
-[SLUCE2 Hedonic Regression Lab Report (software-based) - PLAN 416: Modeling the City](/pdf/416_example3.pdf)<img src="images/416_example3.PNG?raw=true"/>
+- [SLUCE2 Hedonic Regression Lab Report (software-based) - PLAN 416: Modeling the City](/pdf/416_example3.pdf)<img src="images/416_example3.PNG?raw=true"/>
 
 
 ---
