@@ -32,7 +32,7 @@ li a.active {
 
 ---
 
-Navigation:
+Section Navigation:
 
 <ul>
   <li><a href="#section1">Real Estate Financial Modeling</a></li>
@@ -44,6 +44,8 @@ Navigation:
 <i>Last Updated: May 13, 2021</i>
 <br>
 <i>Not to be confused with [David's Portfolio of Conceptual Art & Design](/pdf/portfolio_AD.pdf)</i>
+
+---
 
 <a id="section1"></a>
 
