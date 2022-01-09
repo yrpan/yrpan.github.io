@@ -13,10 +13,10 @@
 <br>
 <i>Not to be confused with [David's Portfolio of Conceptual Art & Design](/pdf/portfolio_AD.pdf)</i>
 
+<a id="section1"></a>
+
 ### Selected Real Estate Finance & Investment coursework
 ### at the Wharton School (2020-2021)
-
-<a id="section1"></a>
 
 ---
 
@@ -28,12 +28,12 @@
 
 ---
 
+<a id="section2"></a>
+
 ### Selected Urban/Spatial Informatics coursework 
 ### at the MUSA program of the Weitzman School (2020-2021)
 
 <i>Python, JS, R and SQL are the primary languages used</i>
-
-<a id="section2"></a>
 
 ---
 [Supervised Ensemble Machine Learning: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python) - Independent Study Capstone Project Course under Professor Charles Dana Tomlin](https://youtu.be/G51Yo04meWQ)
@@ -49,10 +49,10 @@
 
 ---
 
+<a id="section3"></a>
+
 ### Selected Urban/Spatial Informatics coursework 
 ### at my undergraduate school UWaterloo (2014-2019)
-
-<a id="section3"></a>
 
 ---
 
@@ -108,9 +108,9 @@
 
 ---
 
-### Professional works at Environment Canada, Water Science & Technology (2018-2020)
-
 <a id="section4"></a>
+
+### Professional works at Environment Canada, Water Science & Technology (2018-2020)
 
 From 2018 to mid 2020, David produced a series of spatial informatics models and tools to support different scientific research initiatives on inland waters, alongside senior Physical Scientists: 
 
