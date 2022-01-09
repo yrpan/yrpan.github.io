@@ -5,7 +5,7 @@ ul {
   margin: 0;
   padding: 0;
   width: 90%;
-  background-color: #DCDCDC;
+  background-color: #F8F8F8;
 }
 
 li a {
