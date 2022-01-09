@@ -28,7 +28,7 @@ li a.active {
 </style>
 </head>
 
-## David's Portfolio of Urban/Spatial Informatics Works + Real Estate Financial Models
+## David's Portfolio of Urban/Spatial Informatics & Real Estate Financial Modeling
 
 ---
 
