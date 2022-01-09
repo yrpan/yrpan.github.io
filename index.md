@@ -4,7 +4,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 75%;
+  width: 90%;
   background-color: #f1f1f1;
 }
 
@@ -19,6 +19,17 @@ li a:hover {
   background-color: #050A30;
   color: white;
 }
+
+li a.active {
+  background-color: #050A30;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #f1f1f1;
+  color: white;
+}
+
 </style>
 </head>
 
