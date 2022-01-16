@@ -52,7 +52,7 @@ Section Navigation:
 <a id="section1"></a>
 
 ### Selected Urban/Spatial Informatics coursework 
-### at the MUSA program of the Weitzman School (2020-2021)
+### at the MUSA program of the Weitzman School Professional Division (2020-2021)
 
 <i>Python, JS, R and SQL are the primary languages used</i>
 
