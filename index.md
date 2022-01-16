@@ -35,8 +35,8 @@ li a.active {
 Section Navigation:
 
 <ul>
-  <li><a href="#section1">Real Estate Financial Modeling</a></li>
-  <li><a href="#section2">Urban/Spatial Informatics Modeling - Part I</a></li>
+  <li><a href="#section1">Urban/Spatial Informatics Modeling - Part I</a></li>
+  <li><a href="#section2">Real Estate Financial Modeling</a></li>
   <li><a href="#section3">Urban/Spatial Informatics Modeling - Part II</a></li>
   <li><a href="#section4">Urban/Spatial Informatics Modeling - Part III</a></li>
 </ul>
@@ -45,24 +45,11 @@ Section Navigation:
 <br>
 <i>Not to be confused with [David's Portfolio of Conceptual Art & Design](/pdf/portfolio_AD.pdf)</i>
 
+
+
 ---
 
 <a id="section1"></a>
-
-### Selected Real Estate Finance & Investment coursework
-### at the Wharton School (2020-2021)
-
----
-
-- [Models for Case 2: Real Estate Private Equity Fund: Waterfall Structure (2021), David Pan & Theodore Lewis - REAL 840: Advanced Real Estate Investments and Analysis†](https://www.wharton.upenn.edu/)
-
-- [Models for Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021), David Pan & Theodore Lewis - REAL 840†](https://www.wharton.upenn.edu/)
-
-†Sharing of models is currently prohibited, please contact Wharton Real Estate Department for permission to view/evaluate
-
----
-
-<a id="section2"></a>
 
 ### Selected Urban/Spatial Informatics coursework 
 ### at the MUSA program of the Weitzman School (2020-2021)
@@ -83,6 +70,21 @@ Section Navigation:
 
 - [Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) - MUSA 650 - Geospatial Machine Learning in Remote Sensing](/pdf/example_work2.pdf)
 <img src="images/visualization3.png?raw=true"/>
+
+---
+
+<a id="section2"></a>
+
+### Selected Real Estate Finance & Investment coursework
+### at the Wharton School (2020-2021)
+
+---
+
+- [Models for Case 2: Real Estate Private Equity Fund: Waterfall Structure (2021), David Pan & Theodore Lewis - REAL 840: Advanced Real Estate Investments and Analysis†](https://www.wharton.upenn.edu/)
+
+- [Models for Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021), David Pan & Theodore Lewis - REAL 840†](https://www.wharton.upenn.edu/)
+
+†Sharing of models is currently prohibited, please contact Wharton Real Estate Department for permission to view/evaluate
 
 ---
 
