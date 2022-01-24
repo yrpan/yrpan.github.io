@@ -153,7 +153,7 @@ Section Navigation:
 
 From 2018 to mid 2020, David produced a series of spatial informatics models and tools to support different scientific research initiatives on inland waters, alongside senior Physical Scientists: 
 
-- <b>Potential role of sediment resuspension on nutrient dynamics in Lake of the Woods.</b> Reza Valipour, Ian Droppo, Johann Biberhofer, Jun Zhao, and Yuanrong Pan (2020). Environment Canada, Water Science and Technology. 2020 International Lake of the Woods Watershed Forum <i>[Physical Science Publication]</i>.<img src="images/publication.PNG?raw=true"/>
+- [<b>Potential role of sediment resuspension on nutrient dynamics in Lake of the Woods.</b> Reza Valipour, Ian Droppo, Johann Biberhofer, Jun Zhao, and Yuanrong Pan (2020). Environment Canada, Water Science and Technology. 2020 International Lake of the Woods Watershed Forum, Physical Science Publication ](https://lowwsf.com/watershed-forum)<img src="images/publication.PNG?raw=true"/>
 
 - [Water Chemical Concentration – Averaging & Hotspot Toolset (programmed in Python), 2019 – 2020†](https://www.canada.ca/en/environment-climate-change.html)
 
