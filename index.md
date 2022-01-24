@@ -113,7 +113,7 @@ Section Navigation:
 
 ---
 
-### Other relevant Urban/Spatial Informatics coursework at Penn (Direct Inquiry):
+### Other relevant Urban/Spatial Informatics coursework at Penn (Direct Inquiries):
 
 -	<a href="tel:+01-647-893-7439" rel="nofollow">Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python) 	Mar 2021</a>
 
