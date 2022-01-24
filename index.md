@@ -1,3 +1,5 @@
+## David's Portfolio of Urban/Spatial Informatics & Real Estate Financial Modeling
+
 <head>
 <style>
 ul {
@@ -28,7 +30,6 @@ li a.active {
 </style>
 </head>
 
-## David's Portfolio of Urban/Spatial Informatics & Real Estate Financial Modeling
 
 ---
 
