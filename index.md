@@ -59,7 +59,7 @@ Section Navigation:
 ---
 
 - [Supervised Ensemble Machine Learning: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python) - Independent Study Capstone Project Course under Professor Charles Dana Tomlin](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
-<img src="images/tool1.png?raw=true"/>
+<img src="images/tool1.gif?raw=true"/>
 
 ---
 
