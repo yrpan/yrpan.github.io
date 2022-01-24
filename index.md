@@ -1,4 +1,6 @@
 <head>
+<title>David's Portfolio</title>
+<base target="_blank" rel="noopener noreferrer">
 <style>
 ul {
   list-style-type: none;
@@ -116,7 +118,7 @@ Section Navigation:
 ### Other relevant Urban/Spatial Informatics coursework at Penn:
 -	Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python) 	Mar 2021
 
--	Supervised Machine Learning: Everyday Object Classification (K-NN & SVM) (programmed in Python)	Feb 2021
+-	<a href="tel:+01-647-893-7439" rel="nofollow">Supervised Machine Learning: Everyday Object Classification (K-NN & SVM) (programmed in Python)	Feb 2021</a>
 
 -	Detecting NDVI and urban structures on Woody Island using satellite bands (programmed in JS)	Feb 2021
 
