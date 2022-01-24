@@ -63,7 +63,7 @@ Section Navigation:
 
 ---
 
-- [Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python), Dec 2020 - MUSA 550 - Geospatial Data Science](https://yrpan.github.io/MUSA550_finalproject/clustering-analysis/)<img src="images/visualization1.png?raw=true"/>
+- [Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python), Dec 2020 - MUSA 550 - Geospatial Data Science](https://yrpan.github.io/MUSA550_finalproject/clustering-analysis/)<img src="images/visualization1.gif?raw=true"/>
 
 
 ---
