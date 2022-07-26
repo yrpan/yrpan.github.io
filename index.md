@@ -82,8 +82,10 @@ Section Navigation:
 ---
 
 - [Models for Case 2: Real Estate Private Equity Fund: Waterfall Structure (2021), David Pan & Theodore Lewis - REAL 840: Advanced Real Estate Investments and Analysis†](https://www.wharton.upenn.edu/)
+<img src="images/model1.jpg?raw=true"/>
 
 - [Models for Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021), David Pan & Theodore Lewis - REAL 840†](https://www.wharton.upenn.edu/)
+<img src="images/model2.png?raw=true"/>
 
 †Sharing of models is currently prohibited, please contact Wharton Real Estate Department for permission to view/evaluate
 
