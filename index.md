@@ -1,4 +1,4 @@
-## David's Portfolio of Urban/Spatial Informatics & Real Estate Financial Modeling
+## David's Portfolio of Spatial Informatics & RE Financial Modeling
 
 <head>
 <style>
@@ -36,10 +36,10 @@ li a.active {
 Section Navigation:
 
 <ul>
-  <li><a href="#section1">Urban/Spatial Informatics Modeling - Part I</a></li>
-  <li><a href="#section2">Real Estate Financial Modeling</a></li>
-  <li><a href="#section3">Urban/Spatial Informatics Modeling - Part II</a></li>
-  <li><a href="#section4">Urban/Spatial Informatics Modeling - Part III</a></li>
+  <li><a href="#section1">Spatial Informatics Modeling - Part I</a></li>
+  <li><a href="#section2">RE Financial Modeling</a></li>
+  <li><a href="#section3">Spatial Informatics Modeling - Part II</a></li>
+  <li><a href="#section4">Spatial Informatics Modeling - Part III</a></li>
 </ul>
 <br>
 <i>Last Updated: May 13, 2021</i>
@@ -52,7 +52,7 @@ Section Navigation:
 
 <a id="section1"></a>
 
-### Selected Urban/Spatial Informatics coursework 
+### Selected Spatial Informatics coursework 
 ### at the MUSA program of the Weitzman School (2020-2021)
 
 <i>Python, JS, R and SQL are the primary languages used</i>
@@ -76,7 +76,7 @@ Section Navigation:
 
 <a id="section2"></a>
 
-### Selected Real Estate Finance & Investment coursework
+### Selected RE Finance & Investment coursework
 ### at the Wharton School (2020-2021)
 
 ---
@@ -93,7 +93,7 @@ Section Navigation:
 
 <a id="section3"></a>
 
-### Selected Urban/Spatial Informatics coursework 
+### Selected Spatial Informatics coursework 
 ### at my undergraduate school UWaterloo (2014-2019)
 
 ---
@@ -116,7 +116,7 @@ Section Navigation:
 
 ---
 
-### Other relevant Urban/Spatial Informatics coursework at Penn (Direct Inquiries):
+### Other relevant Spatial Informatics coursework at Penn (Direct Inquiries):
 
 -	<a href="tel:+01-647-893-7439" rel="nofollow">Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python) 	Mar 2021</a>
 
