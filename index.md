@@ -1,4 +1,4 @@
-## David's Portfolio of Spatial Informatics & RE Financial Modeling
+## David's Portfolio of Spatial Informatics/Hydrological & RE Financial Modeling
 
 <head>
 <style>
@@ -36,10 +36,10 @@ li a.active {
 Section Navigation:
 
 <ul>
-  <li><a href="#section1">Spatial Informatics Modeling - Part I</a></li>
-  <li><a href="#section2">RE Financial Modeling</a></li>
-  <li><a href="#section3">Spatial Informatics Modeling - Part II</a></li>
-  <li><a href="#section4">Spatial Informatics Modeling - Part III</a></li>
+  <li><a href="#section1">Spatial Informatics Modeling - Part I (Academic)</a></li>
+  <li><a href="#section2">RE Financial Modeling (Academic)</a></li>
+  <li><a href="#section3">Spatial Informatics Modeling - Part II (Academic)</a></li>
+  <li><a href="#section4">Spatial Informatics Modeling - Part III (Scientific)</a></li>
 </ul>
 <br>
 <i>Last Updated: May 13, 2021</i>
