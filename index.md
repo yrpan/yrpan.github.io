@@ -39,7 +39,7 @@ Section Navigation:
   <li><a href="#section1">Spatial Informatics Modeling - Part I (Academic)</a></li>
   <li><a href="#section2">RE Financial Modeling (Academic)</a></li>
   <li><a href="#section3">Spatial Informatics Modeling - Part II (Academic)</a></li>
-  <li><a href="#section4">Spatial Informatics Modeling - Part III (Scientific)</a></li>
+  <li><a href="#section4">Spatial Informatics & Hyrdrological Modeling - Part I (Scientific)</a></li>
 </ul>
 <br>
 <i>Last Updated: May 13, 2021</i>
@@ -155,7 +155,7 @@ Section Navigation:
 
 ### Professional works at Environment Canada, Water Science & Technology (2018-2020)
 
-From 2018 to mid 2020, David produced a series of spatial informatics models and tools to support different scientific research initiatives on inland waters — most notably Lake of the Woods — alongside senior-level Physical (Research) Scientists: 
+From 2018 to mid 2020, David produced a series of spatial informatics/ hydrological/hydrodynamic models (e.g. flow accumulation model) and tools to support different scientific research initiatives on inland waters — most notably Lake of the Woods — alongside senior-level Physical (Research) Scientists: 
 
 - [<b>Potential role of sediment resuspension on nutrient dynamics in Lake of the Woods.</b> Reza Valipour, Ian Droppo, Johann Biberhofer, Jun Zhao, and Yuanrong Pan (2020). Environment Canada, Water Science and Technology. 2020 International Lake of the Woods Watershed Forum, Physical Science Publication ](https://lowwsf.com/watershed-forum)<img src="images/publication.PNG?raw=true"/>
 
