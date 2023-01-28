@@ -1,4 +1,4 @@
 
-### David (Yuan Rong) Pan's Portfolio of Urban and Spatial Informatics Works + Real Estate Financial Models
+### David (Yuan Rong) Pan's Portfolio of Spatial Informatics/ Hydrological + RE Financial Models
 
-Note this is an overview of David's Works 2016-2021 - this does not contain all his projects, nor is this the only portfolio he has (i.e. he also has a conceptual art portfolio).
+Note: this is only an overview of David's Works, academic and scientific; the list is not exhaustive.
