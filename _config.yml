@@ -1,8 +1,18 @@
-title: David Pan
+title: David (Y.R.) Pan
 logo: "/images/logo.png?raw=true" 
 description: > 
   <p style= "font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
   font-weight: 400;font-style: normal;line-height: 1.5;">
+  <strong>Post:</strong> 
+  <br>
+  Physical Scientist
+  <br>
+  <abbr title="Department of the Environment (Federal)">Environment Canada</abbr>
+  <br>
+  Science & Technology Branch
+  <br>
+  National Inland Water Research Institute
+  <br>
   <strong>Academic Background:</strong> 
   <br>
   Spatial Informatics (MUSA'21)
@@ -15,15 +25,6 @@ description: >
   <br>
   <strong>Email:</strong> yrpan@alumni.upenn.edu
   <br><br>
-  <strong>Post:</strong> 
-  <br>
-  Physical Scientist
-  <br>
-  <abbr title="Department of the Environment (Federal)">Environment Canada</abbr>
-  <br>
-  Science & Technology Branch
-  <br>
-  National Inland Water Research Institute
   </p>
   <a href="https://www.linkedin.com/in/yuanrongpan/">LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
