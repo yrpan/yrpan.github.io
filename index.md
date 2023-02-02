@@ -50,7 +50,7 @@ Section Navigation:
 
 <a id="section4"></a>
 
-### Scientific works at Environment Canada, Water Science & Technology (2018-2020)
+### Scientific works at Environment Canada, Water Science & Technology Directorate (2018-2020)
 
 From 2018 to mid 2020, David produced a series of hydrological/hydrodynamic/spatial informatics models (e.g. flow accumulation, sediment thickness prediction) and processing tools to support various scientific research initiatives on inland waters — most notably Lake of the Woods — alongside senior-level Physical (Research) Scientists: 
 
@@ -114,7 +114,7 @@ From 2018 to mid 2020, David produced a series of hydrological/hydrodynamic/spat
 <a id="section3"></a>
 
 ### Selected Spatial Informatics coursework 
-### at my undergraduate school UWaterloo (2014-2019)
+### at David's undergraduate school UWaterloo (2014-2019)
 
 ---
 
@@ -136,7 +136,7 @@ From 2018 to mid 2020, David produced a series of hydrological/hydrodynamic/spat
 
 ---
 
-### Other relevant Spatial Informatics coursework at Penn (Direct Inquiries):
+### Other relevant Spatial Informatics coursework at Penn:
 
 -	<a href="tel:+01-647-893-7439" rel="nofollow">Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python) 	Mar 2021</a>
 
