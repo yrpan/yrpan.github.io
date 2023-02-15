@@ -36,10 +36,10 @@ li a.active {
 Section Navigation:
 
 <ul>
-  <li><a href="#section4">Spatial Informatics & Hydrological Modeling - Part I (Scientific)</a></li>
   <li><a href="#section1">Spatial Informatics Modeling - Part I (Academic)</a></li>
   <li><a href="#section2">RE Financial Modeling (Academic)</a></li>
   <li><a href="#section3">Spatial Informatics Modeling - Part II (Academic)</a></li>
+  <li><a href="#section4">Spatial Informatics & Hydrological Modeling - Part I (Scientific)</a></li>
 </ul>
 <br>
 <i>Last Updated: May 13, 2021</i>
