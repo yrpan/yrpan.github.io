@@ -36,9 +36,9 @@ li a.active {
 Section Navigation:
 
 <ul>
-  <li><a href="#section1">Urban/Spatial Informatics Modeling - Part I (Academic)</a></li>
-  <li><a href="#section2">RE Financial Modeling (Academic)</a></li>
-  <li><a href="#section3">Urban/Spatial Informatics Modeling - Part II (Academic)</a></li>
+  <li><a href="#section1">Urban/Spatial Informatics Modeling - Part I </a></li>
+  <li><a href="#section2">RE Financial Modeling</a></li>
+  <li><a href="#section3">Urban/Spatial Informatics Modeling - Part II </a></li>
 </ul>
 <br>
 <i>Last Updated: May 13, 2021</i>
