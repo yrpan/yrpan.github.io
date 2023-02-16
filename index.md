@@ -1,4 +1,4 @@
-## David's Portfolio of Spatial Informatics & RE Financial Modeling
+## David's Portfolio of Urban/Spatial Informatics & RE Financial Modeling
 
 <head>
 <style>
@@ -36,9 +36,9 @@ li a.active {
 Section Navigation:
 
 <ul>
-  <li><a href="#section1">Spatial Informatics Modeling - Part I (Academic)</a></li>
+  <li><a href="#section1">Urban/Spatial Informatics Modeling - Part I (Academic)</a></li>
   <li><a href="#section2">RE Financial Modeling (Academic)</a></li>
-  <li><a href="#section3">Spatial Informatics Modeling - Part II (Academic)</a></li>
+  <li><a href="#section3">Urban/Spatial Informatics Modeling - Part II (Academic)</a></li>
 </ul>
 <br>
 <i>Last Updated: May 13, 2021</i>
@@ -49,7 +49,7 @@ Section Navigation:
 
 <a id="section1"></a>
 
-### Selected Spatial Informatics coursework 
+### Selected Urban/Spatial Informatics coursework 
 ### at the MUSA program of the Weitzman School (2020-2021)
 
 <i>Python, JS, R and SQL are the primary languages used</i>
@@ -90,7 +90,7 @@ Section Navigation:
 
 <a id="section3"></a>
 
-### Selected Spatial Informatics coursework 
+### Selected Urban/Spatial Informatics coursework 
 ### at David's undergraduate school UWaterloo (2014-2019)
 
 ---
