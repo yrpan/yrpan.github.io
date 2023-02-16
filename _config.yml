@@ -3,29 +3,17 @@ logo: "/images/logo.png?raw=true"
 description: > 
   <p style= "font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
   font-weight: 400;font-style: normal;line-height: 1.5;color: #00008B;">
-  <strong>Current Post:</strong> 
   <br>
-  Physical Scientist (Level II)
-  <br>
-  <abbr title="Department of the Environment (Federal), d.b.a. Environment Canada (EC) or ECCC (post-2015)">Environment Canada</abbr>
-  <br>
-  Science & Technology Branch
-  <br>
-  National Water Research Institute
-  <br><br>
+  Developer
+
   <strong>Academic background:</strong> 
   <br>
   Spatial Informatics (MUSA'21)
   <br>
   <abbr title="private Ivy League university in Philadelphia, PA">University of Pennsylvania (Penn)</abbr> 
   <br>
-  B.ES (Hons) with Distinction'19
-  <br>
-  University of Waterloo
-  <br>
   <strong>Email:</strong> yrpan@alumni.upenn.edu
   <br><br>
   </p>
-  <a href="https://www.linkedin.com/in/yuanrongpan/">LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
 google_analytics: G-DT87ZHZK9Y

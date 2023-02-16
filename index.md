@@ -1,4 +1,4 @@
-## David's Portfolio of Spatial Informatics/Hydrological & RE Financial Modeling
+## David's Portfolio of Spatial Informatics & RE Financial Modeling
 
 <head>
 <style>
@@ -39,7 +39,6 @@ Section Navigation:
   <li><a href="#section1">Spatial Informatics Modeling - Part I (Academic)</a></li>
   <li><a href="#section2">RE Financial Modeling (Academic)</a></li>
   <li><a href="#section3">Spatial Informatics Modeling - Part II (Academic)</a></li>
-  <li><a href="#section4">Spatial Informatics & Hydrological Modeling - Part I (Scientific)</a></li>
 </ul>
 <br>
 <i>Last Updated: May 13, 2021</i>
@@ -148,31 +147,8 @@ Section Navigation:
 
 ---
 
-<a id="section4"></a>
 
-### Scientific works at Environment Canada, Water Science & Technology Directorate (2018-2020)
-
-From 2018 to mid 2020, David, as an intern, produced a series of hydrological/hydrodynamic/spatial informatics models (e.g. flow accumulation, sediment thickness prediction) and processing tools to support various scientific research initiatives on inland waters — most notably Lake of the Woods — alongside a team of Physical (Research) Scientists: 
-
-- [<b>Potential role of sediment resuspension on nutrient dynamics in Lake of the Woods.</b> Reza Valipour, Ian Droppo, Johann Biberhofer, Jun Zhao, and Yuanrong Pan (2020). Environment Canada, Water Science and Technology. 2020 International Lake of the Woods Watershed Forum, Physical Science Publication ](https://lowwsf.com/watershed-forum)<img src="images/publication.PNG?raw=true"/>
-
-- [Water Chemical Concentration – Averaging & Hotspot Set (programmed in Python), 2019 – 2020†](https://www.canada.ca/en/environment-climate-change.html)
-
-- [Water Sediment Fractions Prediction and Interpolation Set (programmed in Python), 2019 – 2020†](https://www.canada.ca/en/environment-climate-change.html)
-
-- [Water Sediment Thickness Prediction and Interpolation Set (programmed in Python), 2019 – 2020†](https://www.canada.ca/en/environment-climate-change.html)
-
-- [Water Sediment Data Plotting Set- Tracers, Heavy Metals, Soil Particles, Differences (programmed in Python), 2018 – 2019†](https://www.canada.ca/en/environment-climate-change.html)
-
-- [IDW & Kernel Water Quality Parameters Interpolation Set (programmed in Python), 2018†](https://www.canada.ca/en/environment-climate-change.html)
-
-†Sharing of models and tools is currently prohibited, please contact Environment Canada, Science & Technology Branch, for permission to view/evaluate
-
-
----
-
-
-<i>DAVID'S PORTFOLIO OF SPATIAL INFORMATICS, HYDROLOGICAL, & RE FINANCIAL MODELING (2014-2021)</i>
+<i>DAVID'S PORTFOLIO OF SPATIAL INFORMATICS & RE FINANCIAL MODELING (2014-2021)</i>
 
 
 ---
