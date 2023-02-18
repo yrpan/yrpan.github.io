@@ -52,8 +52,7 @@ Section Navigation:
 
 ### Selected Corporate Projects & Exhibits (Links to Official Websites)
 
-- [Southlake-Ontario Health Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - Region: SCOHT Area (Programmed in Python), 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
-<img src="images/sample_corporate_1.PNG?raw=true"/>
+- [Southlake-Ontario Health Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - Region: SCOHT Area (Programmed in Python), 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)<img src="images/sample_corporate_1.PNG?raw=true"/>
 
 This project has been considered the "Gold Standard" by the Ontario Government's policymakers, selected from a number of comparable test-of-change and AI projects across the province.
 
