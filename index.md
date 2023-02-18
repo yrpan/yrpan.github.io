@@ -1,4 +1,4 @@
-## David's Portfolio of Urban/Spatial Informatics & RE Financial Modeling
+## David's Portfolio of Spatial Informatics, GIS & RE Financial Modeling
 
 <head>
 <style>
@@ -54,23 +54,23 @@ Section Navigation:
 
 - [Southlake-Ontario Government Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - SCOHT Area, 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
 
-This project is considered the "Gold Standard" by the committee provincial policy makers, selected from multiple comparable projects across the province.
+This project has been considered the "Gold Standard" by provincial policy makers, selected from a number of comparable test-of-change projects across the province.
 
-The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed completely from scratch by David, who is the sole expert and technical representative of Southlake across more than 3 interagency commitees and working groups (notable parties included the Government of Ontario, Carleton University and ESRI).
+The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed completely from scratch by David, who is the sole expert and technical representative of Southlake across more than 3 interagency commitees and working groups (notable parties included the Government of Ontario, ESRI, and academic institutions).
 
-David designed and implemented the complete workflow of the project: from the development and management of file geodatabases and Anaconda environments, ETL of predictors, to the computer programming of the predictive GIS models built from both the ArcGIS and Anaconda Python software libraries, which enabled the efficient, systematic analysis of spatial data (e.g. automated GWR (Geographically Weighted Regression) modeling for local predictor significance adaptively defined by the proxy statistic β coefficient/Standard Error). 
+David designed and implemented the complete workflow of the project: from the development of spatial databases and Anaconda environments, through the ETL of predictors, to the computer programming of the predictive GIS models built from both the ArcGIS and Anaconda Python software libraries, which enabled the efficient, systematic analysis of the input spatial data (e.g. automated GWR modeling for local predictor significance, adaptively classified by the proxy statistic β coefficient/Standard Error). 
 
 - [Southlake-Ontario Government Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - East Toronto Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
 
-GWR Results replicated in another geographic region
+GWR model tested and replicated in another geographic region, which produced adaptive results and new insights
 
-- [University of Pennsylvania Machine Learning Project Exhibition Website: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python)](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
+- [University of Pennsylvania Machine Learning Project Exhibition Website: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python), 2021](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
 
-This adaptive Spatial Machine Learning & GIS model David designed allows RE investors, such as himself, to identify high-return RE investment opportunities adjoining neighborhoods pending population growth in any geographic regions, in addition to generating assessment figures for insurance companies and tax agencies (parameters such as regional inflation and construction cost psf can be auto-detected from the model inputs, given correct field names).
+This adaptive spatial machine learning & GIS model David designed allows RE investors, such as himself, to identify high-return RE investment opportunities in adjoining neighborhoods pending population growth in any geographic regions, in addition to generating reliable assessment figures for insurance companies and tax agencies (parameters such as regional inflation and construction cost psf can be auto-detected from the model inputs, given correct field names).
 
-- [Ontario Government Economic Development Interactive Web Application, (programmed in Javascript)](https://www.investontario.ca/sites-ontario#certsite-map)
+- [Ontario Government Economic Development Interactive Web Application, (programmed in Javascript), 2018](https://www.investontario.ca/sites-ontario#certsite-map)
 
-Interative web app programmed from scratch by David Pan, and embedded within the Ontario Investment Office's client-facing website
+This interative web app was programmed in JavaScript (JS) completely from scratch by David Pan (with slight changes made by others in recent years), and was embedded within the Ontario Investment Office's client-facing website since 2018
 
 ---
 
@@ -175,7 +175,7 @@ Interative web app programmed from scratch by David Pan, and embedded within the
 ---
 
 
-<i>DAVID'S PORTFOLIO OF SPATIAL INFORMATICS & RE FINANCIAL MODELING (2014-2021)</i>
+<i>DAVID'S PORTFOLIO OF SPATIAL INFORMATICS, GIS & RE FINANCIAL MODELING (2014-2021)</i>
 
 
 ---
