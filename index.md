@@ -36,9 +36,10 @@ li a.active {
 Section Navigation:
 
 <ul>
-  <li><a href="#section1">Urban/Spatial Informatics Modeling - Part I </a></li>
+  <li><a href="#section0">Sample Corporate Projects - Part I </a></li> 
+  <li><a href="#section1">Spatial Informatics & GIS Modeling - Part I </a></li>
   <li><a href="#section2">RE Financial Modeling</a></li>
-  <li><a href="#section3">Urban/Spatial Informatics Modeling - Part II </a></li>
+  <li><a href="#section3">Spatial Informatics & GIS Modeling - Part II </a></li>
 </ul>
 <br>
 <i>Last Updated: May 13, 2021</i>
@@ -47,9 +48,29 @@ Section Navigation:
 
 ---
 
+<a id="section0"></a>
+
+### Selected Corporate Projects & Exhibits (Links to Official Websites)
+
+- [Southlake-Ontario Government Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - SCOHT Area, 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
+
+The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed completely from scratch by David Pan, who is the sole expert and technical representative/consultant of Southlake across more than 3 interagency commitees and working groups (notable parties included the Government of Ontario, Carleton University and ESRI). See Scrollable Instructions for more info on how the tool works.
+
+- [Southlake-Ontario Government Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - East Toronto Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
+
+Results replicated in another geographic region
+
+- [University of Pennsylvania Machine Learning Project Exhibition Website: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python)](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
+This adaptive Spatial Machine Learning & GIS model David designed allows RE investors, such as himself, to identify high-return RE investment opportunities adjoining neighborhoods pending population growth in any geographic regions, in addition to generating assessment figures for insurance companies and tax agencies (parameters such as regional inflation and construction cost psf can be auto-detected from the model inputs, given correct field names).
+
+- [Ontario Government Economic Development Interactive Web Application, (programmed in Javascript)](https://www.investontario.ca/sites-ontario#certsite-map)
+Interative web app programmed from scratch by David Pan, and embedded within the Ontario Investment Office's client-facing website
+
+---
+
 <a id="section1"></a>
 
-### Selected Urban/Spatial Informatics coursework 
+### Selected Spatial Informatics & GIS coursework 
 ### at the MUSA program of the Weitzman School (2020-2021)
 
 <i>Python, JS, R and SQL are the primary languages used</i>
@@ -90,8 +111,8 @@ Section Navigation:
 
 <a id="section3"></a>
 
-### Selected Urban/Spatial Informatics coursework 
-### at David's undergraduate school UWaterloo (2014-2019)
+### Selected Spatial Informatics & GIS coursework 
+### at the undergraduate level, UWaterloo (2014-2019)
 
 ---
 
