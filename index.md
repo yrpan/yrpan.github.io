@@ -53,7 +53,7 @@ Section Navigation:
 ### Selected Corporate Projects & Exhibits (Links to Official Websites)
 
 - [Southlake-Ontario Health Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - Region: SCOHT Area (Programmed in Python), 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
-src="images/sample_corporate_1.PNG?raw=true"/>
+<src="images/sample_corporate_1.PNG?raw=true"/>
 
 This project has been considered the "Gold Standard" by the Ontario Government's policymakers, selected from a number of comparable test-of-change and AI projects across the province.
 
@@ -62,12 +62,12 @@ The state-of-the-art predictive GIS models implemented and the associated automa
 David designed and implemented the complete workflow of the project: from the development of spatial databases and Anaconda environments, through the ETL of predictors, to the computer programming of the predictive GIS models built from both the ArcGIS and Anaconda Python software libraries, which enabled the efficient, systematic analysis of the input spatial data (e.g. automated GWR modeling for local predictor significance, adaptively classified by the proxy statistic β coefficient/Standard Error). 
 
 - [GWR Auto-Prediction Results Published in Interactive App - Region: East Toronto unincorporated Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
-src="images/sample_corporate_2.PNG?raw=true"/>
+<src="images/sample_corporate_2.PNG?raw=true"/>
 
 GWR model tested and successfully replicated in another geographic region, which produced adaptive results and new insights for policy makers
 
 - [University of Pennsylvania Machine Learning Project Exhibition Website: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python), 2021](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
-src="images/sample_corporate_3.PNG?raw=true"/>
+<src="images/sample_corporate_3.PNG?raw=true"/>
 
 This adaptive spatial machine learning & GIS model David designed allows RE investors, such as himself, to identify high-return RE investment opportunities in adjoining neighborhoods pending population growth in any geographic regions, in addition to generating reliable assessment figures for insurance companies and tax agencies (parameters such as regional inflation and construction cost psf can be auto-detected from the model inputs, given correct field names).
 
@@ -76,7 +76,7 @@ This adaptive spatial machine learning & GIS model David designed allows RE inve
 This interative web app was programmed in JavaScript (JS) **completely from scratch** by David Pan (with slight changes made by others in recent years), and was embedded within the Ontario Investment Office's client-facing website since 2018
 
 - [Spatial Statistics, Machine & Deep Learning Modeling Guide by David Pan (comes with an automated tool designed in Excel)](https://satiricalime.com/2021/10/18/free-study-tools/#tool-04)
-src="images/sample_corporate_4.PNG?raw=true"/>
+<src="images/sample_corporate_4.PNG?raw=true"/>
 
 David Pan's reference guide and automated model/test selection tool, along with other productivity tools, were published on the Ivy League Education & Satirical Literature website TSL. This tool, aka the "Quick Stats Helper" has helped many academics and professionals alike in their modeling works, and used by organizations such as Carleton University's Health Sciences & Informatics Dept
 
