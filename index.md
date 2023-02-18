@@ -56,7 +56,7 @@ Section Navigation:
 
 This project has been considered the "Gold Standard" by the Ontario Government's policymakers, selected from a number of comparable test-of-change and AI projects across the province.
 
-The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed *completely from scratch* by David, who is the sole expert and technical representative of Southlake & Ontario Health across more than 3 interagency commitees and working groups (notable parties included the Government of Ontario, ESRI, and academic institutions).
+The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed **completely from scratch** by David, who is the sole expert and technical representative of Southlake & Ontario Health across more than 3 interagency commitees and working groups (notable parties included the Government of Ontario, ESRI, and academic institutions).
 
 David designed and implemented the complete workflow of the project: from the development of spatial databases and Anaconda environments, through the ETL of predictors, to the computer programming of the predictive GIS models built from both the ArcGIS and Anaconda Python software libraries, which enabled the efficient, systematic analysis of the input spatial data (e.g. automated GWR modeling for local predictor significance, adaptively classified by the proxy statistic β coefficient/Standard Error). 
 
@@ -70,7 +70,11 @@ This adaptive spatial machine learning & GIS model David designed allows RE inve
 
 - [Ontario Government Economic Development Interactive Web Application, (programmed in Javascript), 2018](https://www.investontario.ca/sites-ontario#certsite-map)
 
-This interative web app was programmed in JavaScript (JS) completely from scratch by David Pan (with slight changes made by others in recent years), and was embedded within the Ontario Investment Office's client-facing website since 2018
+This interative web app was programmed in JavaScript (JS) **completely from scratch** by David Pan (with slight changes made by others in recent years), and was embedded within the Ontario Investment Office's client-facing website since 2018
+
+- [Spatial Statistics, Machine & Deep Learning Modeling Guide by David Pan (comes with an automated tool designed in Excel)](https://satiricalime.com/2021/10/18/free-study-tools/#tool-04)
+
+David Pan's reference guide and automated model/test selection tool, along with other productivity tools, were published on the Ivy League Education & Satirical Literature website TSL. This tool, aka the "Quick Stats Helper" has helped many academics and professionals alike in their modeling works, and used by organizations such as Carleton University's Health Informatics Dept
 
 ---
 
