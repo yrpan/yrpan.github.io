@@ -56,7 +56,7 @@ Section Navigation:
 
 This project has been considered the "Gold Standard" by the Ontario Government's policymakers, selected from a number of comparable test-of-change and AI projects across the province.
 
-The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed completely from scratch by David, who is the sole expert and technical representative of Southlake across more than 3 interagency commitees and working groups (notable parties included the Government of Ontario, ESRI, and academic institutions).
+The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed *completely from scratch* by David, who is the sole expert and technical representative of Southlake & Ontario Health across more than 3 interagency commitees and working groups (notable parties included the Government of Ontario, ESRI, and academic institutions).
 
 David designed and implemented the complete workflow of the project: from the development of spatial databases and Anaconda environments, through the ETL of predictors, to the computer programming of the predictive GIS models built from both the ArcGIS and Anaconda Python software libraries, which enabled the efficient, systematic analysis of the input spatial data (e.g. automated GWR modeling for local predictor significance, adaptively classified by the proxy statistic β coefficient/Standard Error). 
 
