@@ -58,12 +58,14 @@ The state-of-the-art predictive GIS models implemented and the associated automa
 
 - [Southlake-Ontario Government Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - East Toronto Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
 
-Results replicated in another geographic region
+GWR Results replicated in another geographic region
 
 - [University of Pennsylvania Machine Learning Project Exhibition Website: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python)](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
+
 This adaptive Spatial Machine Learning & GIS model David designed allows RE investors, such as himself, to identify high-return RE investment opportunities adjoining neighborhoods pending population growth in any geographic regions, in addition to generating assessment figures for insurance companies and tax agencies (parameters such as regional inflation and construction cost psf can be auto-detected from the model inputs, given correct field names).
 
 - [Ontario Government Economic Development Interactive Web Application, (programmed in Javascript)](https://www.investontario.ca/sites-ontario#certsite-map)
+
 Interative web app programmed from scratch by David Pan, and embedded within the Ontario Investment Office's client-facing website
 
 ---
