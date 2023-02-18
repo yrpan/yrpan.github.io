@@ -54,7 +54,11 @@ Section Navigation:
 
 - [Southlake-Ontario Government Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - SCOHT Area, 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
 
-The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed completely from scratch by David Pan, who is the sole expert and technical representative/consultant of Southlake across more than 3 interagency commitees and working groups (notable parties included the Government of Ontario, Carleton University and ESRI). See Scrollable Instructions for more info on how the tool works.
+This project is considered the "Gold Standard" by the committee provincial policy makers, selected from multiple comparable projects across the province.
+
+The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed completely from scratch by David, who is the sole expert and technical representative of Southlake across more than 3 interagency commitees and working groups (notable parties included the Government of Ontario, Carleton University and ESRI).
+
+David designed and implemented the complete workflow of the project: from the development and management of file geodatabases and Anaconda environments, ETL of predictors, to the computer programming of the predictive GIS models built from both the ArcGIS and Anaconda Python software libraries, which enabled the efficient, systematic analysis of spatial data (e.g. automated GWR (Geographically Weighted Regression) modeling for local predictor significance adaptively defined by the proxy statistic β coefficient/Standard Error). 
 
 - [Southlake-Ontario Government Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - East Toronto Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
 
