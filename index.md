@@ -52,17 +52,17 @@ Section Navigation:
 
 ### Selected Corporate Projects & Exhibits (Links to Official Websites)
 
-- [Southlake-Ontario Government Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - SCOHT Area, 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
+- [Southlake-Ontario Health Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - Region: SCOHT Area (Programmed in Python), 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
 
-This project has been considered the "Gold Standard" by provincial policy makers, selected from a number of comparable test-of-change projects across the province.
+This project has been considered the "Gold Standard" by the Ontario Government's policymakers, selected from a number of comparable test-of-change and AI projects across the province.
 
 The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed completely from scratch by David, who is the sole expert and technical representative of Southlake across more than 3 interagency commitees and working groups (notable parties included the Government of Ontario, ESRI, and academic institutions).
 
 David designed and implemented the complete workflow of the project: from the development of spatial databases and Anaconda environments, through the ETL of predictors, to the computer programming of the predictive GIS models built from both the ArcGIS and Anaconda Python software libraries, which enabled the efficient, systematic analysis of the input spatial data (e.g. automated GWR modeling for local predictor significance, adaptively classified by the proxy statistic β coefficient/Standard Error). 
 
-- [Southlake-Ontario Government Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - East Toronto Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
+- [GWR Auto-Prediction Results Published in Interactive App - Region: East Toronto unincorporated Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
 
-GWR model tested and replicated in another geographic region, which produced adaptive results and new insights
+GWR model tested and successfully replicated in another geographic region, which produced adaptive results and new insights for policy makers
 
 - [University of Pennsylvania Machine Learning Project Exhibition Website: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python), 2021](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
 
