@@ -75,16 +75,16 @@ This adaptive spatial machine learning & GIS model David designed allows RE inve
 
 This interative web app was programmed in JavaScript (JS) **completely from scratch** by David Pan (with slight changes made by others in recent years), and was embedded within the Ontario Investment Office's client-facing website since 2018
 
-- [Spatial Statistics, Machine & Deep Learning Modeling Guide by David Pan (comes with an automated tool designed in Excel)](https://satiricalime.com/2021/10/18/free-study-tools/#tool-04)
+- [Spatial Statistics, Machine & Deep Learning Modeling Guide by David Pan (includes an automated tool built in Excel)](https://satiricalime.com/2021/10/18/free-study-tools/#tool-04)
 <img src="images/sc4.png?raw=true"/>
 
-David Pan's reference guide and automated model/test selection tool, along with other productivity tools, were published on the Ivy League Education & Satirical Literature website TSL. This tool, aka the "Quick Stats Helper" has helped many academics and professionals alike in their modeling works, and used by organizations such as Carleton University's Health Sciences & Informatics Dept
+David's automated model/test selectors + modeling guide, along with other productivity tools, were published on the Ivy League Education & Satirical Literature website TSL. This free tool, aka the "Quick Stats Helper" has educated and helped many academics and professionals to engage in modeling works, and was used by organizations such as Carleton University's Health Sciences & Informatics Department
 
 ---
 
 <a id="section1"></a>
 
-### Selected Spatial Informatics & GIS coursework 
+### Selected Spatial Informatics & GIS coursework (theoretical & real-world based)
 ### at the MUSA program of the Weitzman School (2020-2021)
 
 <i>Python, JS, R and SQL are the primary languages used</i>
@@ -108,7 +108,7 @@ David Pan's reference guide and automated model/test selection tool, along with 
 
 <a id="section2"></a>
 
-### Selected RE Finance & Investment coursework
+### Selected RE Finance & Investment coursework (real-world based)
 ### at the Wharton School (2020-2021)
 
 ---
@@ -125,7 +125,7 @@ David Pan's reference guide and automated model/test selection tool, along with 
 
 <a id="section3"></a>
 
-### Selected Spatial Informatics & GIS coursework 
+### Selected Spatial Informatics & GIS coursework (theoretical)
 ### at the undergraduate level, UWaterloo (2014-2019)
 
 ---
@@ -148,7 +148,7 @@ David Pan's reference guide and automated model/test selection tool, along with 
 
 ---
 
-### Other relevant Spatial Informatics coursework at Penn:
+### Other relevant Spatial Informatics coursework at Penn (theoretical & real-world based):
 
 -	<a href="tel:+01-647-893-7439" rel="nofollow">Supervised Machine Learning: Surface Object Detection: Segmentation & Classification (SVM) (programmed in Python) 	Mar 2021</a>
 
