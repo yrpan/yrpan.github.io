@@ -55,30 +55,28 @@ Section Navigation:
 - [Southlake-Ontario Health Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - Region: SCOHT Area (Programmed in Python), 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
 <img src="images/sc1.png?raw=true"/>
 
-This project has been considered the "Gold Standard" by the Ontario Government's policymakers, selected from a number of comparable test-of-change and AI projects across the province.
+This project has been considered the "Gold Standard" by the Ontario Government, selected from a number of comparable test-of-change and AI projects across the province. The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed **completely from scratch** by David, who is the sole expert and technical representative of Southlake & Ontario Health (SCOHT) across more than three interagency commitees and working groups (notable parties included the Government of Ontario, ESRI, and academic institutions).
 
-The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed **completely from scratch** by David, who is the sole expert and technical representative of Southlake & Ontario Health across more than 3 interagency commitees and working groups (notable parties included the Government of Ontario, ESRI, and academic institutions).
-
-David designed and implemented the complete workflow of the project: from the development of spatial databases and Anaconda environments, through the ETL of predictors, to the computer programming of the predictive GIS models built from both the ArcGIS and Anaconda Python software libraries, which enabled the efficient, systematic analysis of the input spatial data (e.g. automated GWR modeling for local predictor significance, adaptively classified by the proxy statistic β coefficient/Standard Error). 
+David designed and implemented the complete workflow of the project: from the development and deployment of spatial databases and Anaconda environments, through the systematic exploratory analysis and ETL of predictors, to the direct computer programming of the predictive GIS models built from both the ArcGIS ArcPy and the Anaconda Python software libraries. The pipeline enabled automated GWR modeling for local predictor significance (adaptively classified by the proxy statistic β coefficient/Standard Error), applicable for any geographic region. 
 
 - [GWR Auto-Prediction Results Published in Interactive App - Region: East Toronto unincorporated Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
 <img src="images/sc2.png?raw=true"/>
 
-GWR model tested and successfully replicated in another geographic region, which produced adaptive results and new insights for policy makers
+The modeling approach was tested and successfully replicated in another geographic region, which produced adaptive results and new insights for policy makers; in particular that urban areas are better generalized by the existing Marginalization Index Indicators than areas of suburban/rural settings
 
 - [University of Pennsylvania Machine Learning Project Exhibition Website: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python), 2021](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
 <img src="images/sc3.png?raw=true"/>
 
-This adaptive spatial machine learning & GIS model David designed allows RE investors, such as himself, to identify high-return RE investment opportunities in adjoining neighborhoods pending population growth in any geographic regions, in addition to generating reliable assessment figures for insurance companies and tax agencies (parameters such as regional inflation and construction cost psf can be auto-detected from the model inputs, given correct field names).
+This adaptive spatial machine learning & GIS model David designed allows RE investors, such as himself, to identify high-return RE investment opportunities in adjoining neighborhoods pending population growth in any geographic region, in addition to generating reliable assessment figures for insurance companies and tax agencies (parameters such as regional inflation rate and construction cost psf can be auto-detected from the model inputs and fed into defined equations, given correct field names).
 
 - [Ontario Government Economic Development Interactive Web Application, (programmed in Javascript), 2018](https://www.investontario.ca/sites-ontario#certsite-map)
 
-This interative web app was programmed in JavaScript (JS) **completely from scratch** by David Pan (with slight changes made by others in recent years), and was embedded within the Ontario Investment Office's client-facing website since 2018
+This interative web app was programmed in JavaScript (JS) **completely from scratch** by David (with slight modifications made by others in recent years), and was embedded within the Ontario Investment Office's client-facing website since 2018
 
 - [Spatial Statistics, Machine & Deep Learning Modeling Guide by David Pan (includes an automated tool built in Excel)](https://satiricalime.com/2021/10/18/free-study-tools/#tool-04)
 <img src="images/sc4.png?raw=true"/>
 
-David's automated model/test selectors + modeling guide, along with other productivity tools, were published on the Ivy League Education & Satirical Literature website TSL. This free tool, aka the "Quick Stats Helper" has educated and helped many academics and professionals to engage in modeling works, and was used by organizations such as Carleton University's Health Sciences & Informatics Department
+David's automated model/test selectors + modeling guide, along with other productivity tools, were published on the Ivy League Education & Satirical Literature website TSL. This popular free tool, aka the "Quick Stats Helper," has educated and helped academics, students and professionals alike as they engage in statistical modeling/learning, and was used by organizations such as Carleton University's Health Sciences & Informatics Department
 
 ---
 
