@@ -70,6 +70,7 @@ The modeling approach was tested and successfully replicated in another geograph
 This adaptive spatial machine learning & GIS model David designed allows RE investors, such as himself, to identify high-return RE investment opportunities in adjoining neighborhoods pending population growth in any geographic region, in addition to generating reliable assessment figures for insurance companies and tax agencies (parameters such as regional inflation rate and construction cost psf can be auto-detected from the model inputs and fed into defined equations, given correct field names).
 
 - [Ontario Government Economic Development Interactive Web Application, (programmed in Javascript), 2018](https://www.investontario.ca/sites-ontario#certsite-map)
+<img src="images/sc5_1.gif?raw=true"/>
 
 This interative web app was programmed in JavaScript (JS) **completely from scratch** by David (with slight modifications made by others in recent years), and was embedded within the Ontario Investment Office's client-facing website since 2018
 
