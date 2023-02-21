@@ -53,14 +53,14 @@ Section Navigation:
 ### Selected Corporate Projects & Exhibits (Links to Official Websites)
 
 - [Southlake-Ontario Health Cancer Screening Test of Change Project (to be deployed provincially), GWR Auto-Prediction Results Published in Interactive App - Region: SCOHT Area (Programmed in Python), 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
-<img src="images/sc1.png?raw=true"/>
+<img src="images/sc1b.gif?raw=true"/>
 
 This project has been considered the "Gold Standard" by the Ontario Government, selected from a number of comparable test-of-change and AI projects across the province. The state-of-the-art predictive GIS models implemented and the associated automated analytics workflows were developed **completely from scratch** by David, who is the sole expert and technical representative of Southlake & Ontario Health (SCOHT) across more than three interagency commitees and working groups (notable parties included the Government of Ontario, ESRI, and academic institutions).
 
 David designed and implemented the complete workflow of the project: from the development and deployment of spatial databases and Anaconda environments, through the systematic exploratory analysis and ETL of predictors, to the direct computer programming of the predictive GIS models built from both the ArcGIS ArcPy and the Anaconda Python software libraries. The pipeline enabled automated GWR modeling for local predictor significance (adaptively classified by the proxy statistic β coefficient/Standard Error), applicable for any geographic region. 
 
 - [GWR Auto-Prediction Results Published in Interactive App - Region: East Toronto unincorporated Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
-<img src="images/sc2.png?raw=true"/>
+<img src="images/sc2b.gif?raw=true"/>
 
 The modeling approach was tested and successfully replicated in another geographic region, which produced adaptive results and new insights for policy makers; in particular that urban areas are better generalized by the existing Marginalization Index Indicators than areas of suburban/rural settings
 
@@ -75,7 +75,7 @@ This adaptive spatial machine learning & GIS model David designed allows RE inve
 This interative web app was programmed in JavaScript (JS) **completely from scratch** by David (with slight modifications made by others in recent years), and was embedded within the Ontario Investment Office's client-facing website since 2018
 
 - [Spatial Statistics, Machine & Deep Learning Modeling Guide by David Pan (includes an automated tool built in Excel)](https://satiricalime.com/2021/10/18/free-study-tools/#tool-04)
-<img src="images/sc4.png?raw=true"/>
+<img src="images/sc4b.gif?raw=true"/>
 
 David's automated model/test selectors + modeling guide, along with other productivity tools, were published on the Ivy League Education & Satirical Literature website TSL. This popular free tool, aka the "Quick Stats Helper," has educated and helped academics, students and professionals alike as they engage in statistical modeling/learning, and was used by organizations such as Carleton University's Health Sciences & Informatics Department
 
@@ -95,7 +95,7 @@ David's automated model/test selectors + modeling guide, along with other produc
 
 ---
 
-- [Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python), Dec 2020 - MUSA 550 - Geospatial Data Science](https://yrpan.github.io/MUSA550_finalproject/clustering-analysis/)<img src="images/visualization1.gif?raw=true"/>
+- [Heuristic/Unsupervised Machine Learning: Clustering Analysis of Chicago, IL, Population Characteristics (programmed in Python), Dec 2020 - MUSA 550 - Geospatial Data Science](https://yrpan.github.io/MUSA550_finalproject/clustering-analysis/)<img src="images/visualization1b.gif?raw=true"/>
 
 
 ---
