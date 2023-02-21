@@ -81,7 +81,7 @@ David's automated model/test selectors + modeling guide, among other productivit
 
 <a id="section1"></a>
 
-### Selected Spatial Informatics & GIS coursework (theoretical & real-world based)
+### Selected Spatial Informatics & Advanced GIS coursework (theoretical & real-world based)
 ### at the MUSA program of the Weitzman School (2020-2021)
 
 <i>Python, JS, R and SQL are the primary languages used</i>
@@ -105,7 +105,7 @@ David's automated model/test selectors + modeling guide, among other productivit
 
 <a id="section2"></a>
 
-### Selected RE Finance & Investment coursework (real-world based)
+### Selected Advanced RE Finance & Investment coursework (real-world based)
 ### at the Wharton School (2020-2021)
 
 ---
@@ -123,7 +123,7 @@ David's automated model/test selectors + modeling guide, among other productivit
 <a id="section3"></a>
 
 ### Selected Spatial Informatics & GIS coursework (theoretical)
-### UWaterloo (2014-2019)
+### at UWaterloo, Specializations: City Planning, GIS & Real Estate Development (2014-2019)
 
 ---
 
