@@ -123,7 +123,7 @@ David's automated model/test selectors + modeling guide, among other productivit
 <a id="section3"></a>
 
 ### Selected Spatial Informatics & GIS coursework (theoretical)
-### at the undergraduate level, UWaterloo (2014-2019)
+### UWaterloo (2014-2019)
 
 ---
 
