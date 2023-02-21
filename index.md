@@ -52,30 +52,30 @@ Section Navigation:
 
 ### Selected Corporate Projects & Exhibits (Links to Official Websites)
 
-- [Southlake-Ontario Health Cancer Screening Test of Change (to be deployed provincially), GWR Auto-Prediction Results Published via Interactive App,  Region: SCOHT Area (Process programmed in Python), 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
+- [Southlake-Ontario Health Cancer Screening Test of Change (to be deployed provincially), GWR Auto-Prediction Results Published via Interactive App,  Region: SCOHT Area (process programmed in Python), 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
 <img src="images/sc1b.gif?raw=true"/>
 
 Selected from a number of comparable test-of-change and AI projects across the province, and hailed as **"The Gold Standard"** by the Ontario Government, the state-of-the-art spatial predictive models (GIS-based) along with their associated automated procedures and environments were designed and developed **completely from scratch** by David, the sole expert representative of Southlake & Ontario Health (SCOHT) across a number of interagency commitees and working groups (notable parties included the Government of Ontario, ESRI, and academic institutions). David built the entire architecture of the project pipeline: from the development and deployment of spatial databases and Anaconda environments, through the systematic exploratory analysis and ETL of predictors, to the direct computer programming of the predictive GIS models built from both the ArcPy and Anaconda libraries. This pipeline enabled the efficient automatic GWR modeling of the designated geographic region. GWR results demonstrate local predictor significance (adaptively classified by the proxy statistic β coefficient/Standard Error). See "Scrollable Instructions"" for more info on the project.
 
-- [GWR Auto-Prediction Results Published in Interactive App - Region: East Toronto unincorporated Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
+- [GWR Auto-Prediction Results Published in Interactive Web App - Region: East Toronto unincorporated Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
 <img src="images/sc2b.gif?raw=true"/>
 
 The models were tested, independently evaluated, and successfully replicated in another geographic region, which produced adaptive results and new insights for policymakers; worth noting was that urban areas are better generalized by the existing ONMarg Indicators than areas of suburban/rural setting.
 
-- [University of Pennsylvania Machine Learning Project Exhibition Website: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python), 2021](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
+- [University of Pennsylvania Machine Learning Project Exhibition Website: Urban Real Estate Valuation Tool (Standalone & Portable) (programmed in Python), 2021](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
 <img src="images/sc3.png?raw=true"/>
 
 This adaptive spatial machine learning & GIS model David designed allows RE investors, such as himself, to identify high-return RE investment opportunities in adjoining neighborhoods pending population growth in any designated geographic region, in addition to generating reliable assessment figures for insurance companies and tax agencies (parameters such as regional inflation rate, 10-year risk-free interest rate, and construction cost psf can be auto-detected from the model inputs and plugged into predefined equations, given correct field names).
 
-- [Ontario Government Economic Development Interactive Web Application, (programmed in Javascript), 2018](https://www.investontario.ca/sites-ontario#certsite-map)
+- [Ontario Investment Office Interactive Web App, (programmed in Javascript), 2018](https://www.investontario.ca/sites-ontario#certsite-map)
 <img src="images/sc5_1.gif?raw=true"/>
 
-This interative web app was programmed in JavaScript (JS) **completely from scratch** by David (with slight modifications made by others in recent years), and was embedded within the Ontario Investment Office's client-facing website since 2018
+An example of an embedded interative web app built from scratch in JavaScript (JS), HTML and CSS by David. (note: there were slight modifications made by others in recent years).
 
-- [Spatial Statistics, Machine & Deep Learning Modeling Guide by David Pan (includes an automated tool built in Excel)](https://satiricalime.com/2021/10/18/free-study-tools/#tool-04)
+- [Spatial Statistics, Machine & Deep Learning Modeling Guide by David Pan (with in-built Excel selection tools)](https://satiricalime.com/2021/10/18/free-study-tools/#tool-04)
 <img src="images/sc4b.gif?raw=true"/>
 
-David's automated model/test selectors + modeling guide, along with other productivity tools, were published on the Ivy League Education & Satirical Literature website TSL. This popular free tool, aka the "Quick Stats Helper," has educated and helped academics, students and professionals alike as they engage in statistical modeling/learning, and was used by organizations such as Carleton University's Health Sciences & Informatics Department
+David's automated model/test selectors + modeling guide, among other productivity tools, were published on the Ivy League Education & Satirical Literature website TSL. This popular free tool, a.k.a. the "Quick Stats Helper," has educated and helped academics, students and professionals alike as they engage in statistical modeling/learning; and was used by organizations such as Carleton University's Health Sciences & Informatics Department
 
 ---
 
@@ -88,7 +88,7 @@ David's automated model/test selectors + modeling guide, along with other produc
 
 ---
 
-- [Supervised Ensemble Machine Learning: Urban Real Estate Valuation Tool (Standalone & Portable) (Programmed in Python) - Independent Study Capstone Project Course under Professor Charles Dana Tomlin](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
+- [Supervised Ensemble Machine Learning: Urban Real Estate Valuation Tool (Standalone & Portable) (programmed in Python) - Independent Study Capstone Project Course under Professor Charles Dana Tomlin](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
 <img src="images/tool1.gif?raw=true"/>
 
 ---
@@ -98,7 +98,7 @@ David's automated model/test selectors + modeling guide, along with other produc
 
 ---
 
-- [Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (Programmed in Python) - MUSA 650 - Geospatial Machine Learning in Remote Sensing](/pdf/example_work2.pdf)
+- [Deep Learning: Multi-Class Land Cover Classification (CNN, Transfer Learning, & Comparatives) (programmed in Python) - MUSA 650 - Geospatial Machine Learning in Remote Sensing](/pdf/example_work2.pdf)
 <img src="images/visualization3.png?raw=true"/>
 
 ---
