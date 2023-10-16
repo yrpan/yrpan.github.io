@@ -33,6 +33,10 @@ li a.active {
 
 ---
 
+**Important Note: David has already left the GIS industry to return to his family enterprises since March 20, 2023. Please do not send him any invitations to apply to any positions. If there are any outstanding applications submitted by David or his agents to your organization, these applications are considered withdrawn, and no longer considered by David.**
+
+---
+
 Section Navigation:
 
 <ul>
