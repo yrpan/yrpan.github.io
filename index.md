@@ -52,22 +52,22 @@ Section Navigation:
 
 <a id="section0"></a>
 
-### Selected Corporate Projects & Exhibits (Links to Official Websites)
+### Selected Corporate Projects & Exhibits
 
 - [Southlake-Ontario Health Cancer Screening Test of Change (to be deployed provincially), GWR Auto-Prediction Results Published via Interactive App,  Region: SCOHT Area (process programmed in Python), 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
 <img src="images/sc1b.gif?raw=true"/>
 
-Selected from a number of comparable test-of-change and AI projects across the province as "The Gold Standard" by the Ontario Government, the state-of-the-art spatial prediction models and associated automated components were designed and programmed by David, the sole expert who represented Southlake & Ontario Health (SCOHT) at multiple interagency committees and working groups. Among the participants were ESRI and Carleton University Department of Health Informatics. The models enabled the automatic GWR modeling of any designated urban region, which results in local predictor significance (adaptively classified by the proxy statistic β coefficient/SE). See "Scrollable Instructions"" for more info on the project and how the proxy statistic should be interpreted.
+Selected from a number of comparable test-of-change and AI projects across the province as "The Gold Standard" by the Ontario Government, the state-of-the-art spatial prediction models and associated automated components were designed and programmed by David, the sole expert who represented Southlake & Ontario Health (SCOHT) at multiple interagency committees and working groups. Among the participants were ESRI and Carleton University Department of Health Informatics. The models enabled the automatic GWR modeling of any designated urban region, which resulted in local predictor significance (adaptively classified by the proxy statistic β coefficient/SE). Navigate the "Scrollable Instructions"" for more info on the project and how the proxy statistic should be interpreted.
 
 - [GWR Auto-Prediction Results Published in Interactive Web App - Region: East Toronto unincorporated Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
 <img src="images/sc2b.gif?raw=true"/>
 
-The models were tested, independently evaluated, and successfully replicated in another urban region, which produced adaptive results and new insights for policymakers; worth noting was that urban areas are better generalized by the existing ONMarg Indicators than areas of suburban/rural setting. GWR performance also scales with the unit of measurement (generally, the smaller the better, e.g. block groups, if available, tend to produce more useful results than dissemination areas) 
+The models were tested, independently evaluated, and successfully replicated in another urban region, which produced adaptive results and new insights for policymakers; worth noting was that urban areas were better generalized by the existing ONMarg Indicators than areas of suburban/rural setting. GWR performance also scales with the unit of measurement (generally, the smaller the better, e.g. block groups, if available, tend to produce more useful results than dissemination areas) 
 
 - [University of Pennsylvania Machine Learning Project Exhibition Website: Urban Real Estate Valuation Tool (Standalone & Portable) (programmed in Python), 2021](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
 <img src="images/sc3.png?raw=true"/>
 
-This adaptive spatial prediction model David designed allows RE investors to identify high-return RE investment opportunities in adjoining neighborhoods pending population growth in any designated geographic region, in addition to generating reliable assessment figures for insurance companies and tax agencies (parameters such as regional inflation rate, 10-year risk-free interest rate, and construction cost psf can be auto-detected from the model inputs and plugged into predefined equations, given correct field names).
+This adaptive spatial prediction model David designed allows RE investors to identify high-return RE investment opportunities in adjoining neighborhoods pending population growth in any designated urban region, in addition to generating reliable assessment figures for insurance companies and tax agencies (parameters such as regional inflation rate, 10-year risk-free interest rate, and construction cost psf can be auto-detected from the model inputs and plugged into predefined equations, given correct field names).
 
 - [Ontario Investment Office Interactive Web App, (programmed in Javascript), 2018](https://www.investontario.ca/sites-ontario#certsite-map)
 <img src="images/sc5_1.gif?raw=true"/>
