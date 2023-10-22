@@ -74,7 +74,7 @@ This adaptive spatial prediction model David designed allows RE investors to ide
 
 An example of an embedded interative web app built from scratch in JavaScript (JS), HTML and CSS by David. (note: there were slight modifications made by others in recent years).
 
-- [Spatial Statistics, Machine & Deep Learning Modeling Guide by David Pan (with in-built Excel selection tools)](https://yrpan.github.io/)
+- [Spatial Statistics, Machine & Deep Learning Modeling Guide by David Pan (with in-built Excel selection tools)](/pdf/quick_stats_helper_061022p_f.xlsx)
 <img src="images/sc4b.gif?raw=true"/>
 
 David's automated model/test selectors + modeling guide, among other productivity tools, were previously published on the Ivy League Education website TSL. This popular free tool, a.k.a. the "Quick Stats Helper," has educated and helped academics, students and professionals alike as they engage in statistical modeling/learning; and was used by organizations such as Carleton University's Health Sciences & Informatics Department
