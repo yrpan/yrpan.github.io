@@ -1,4 +1,4 @@
 
-### David (Yuan Rong) Pan's Portfolio of Spatial Informatics/ Hydrological + RE Financial Models
+### David's Portfolio of Spatial Informatics, GIS & RE Financial Modeling
 
-Note: this is only an overview of David's Works, academic and scientific; the list is not exhaustive.
+Note: this is an archived page of David's academic and early professional portfolio. David currently operates a tech firm that has little to do with GIS-related industries
