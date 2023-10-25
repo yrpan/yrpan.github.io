@@ -33,7 +33,7 @@ li a.active {
 
 ---
 
-**Note: This is an archived page of David's Academic/ Early Professional portfolio, which is no longer in use. Our tech firm has little to do with Spatial Analytics, or RE Investments for that matter **
+**Note: This is an archived page of David's Academic/ Early Professional portfolio, which is no longer in use. Our tech firm has little to do with Spatial Analytics, or RE Investments for that matter**
 
 **Disclaimer: By downloading, accessing or using any content from this website, you agree that you are doing so at your sole risk, and for educational purposes only**
 
