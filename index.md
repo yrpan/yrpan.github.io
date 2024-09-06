@@ -34,13 +34,13 @@ li a.active {
 
 ## The W App (2023 to Present)
 
-W is the flagship product of World Ranking, Inc. a crowd-source ranking institute.
+W is the flagship product of World Ranking, Inc. ("WR"), a crowd-source ranking institute.
 
 - [Get onboard W in 45 seconds](https://support.ranktheglobe.com/en/articles/8854815-welcome)<img src="images/quickstart_guide_s.png?raw=true"/>
 
 If you're looking for a long-term investment in a startup, then look no further. Our resilient capital structure, commitment to high product standards, and relatively low operating costs; give us every assurance that WR is built to last. The yearly net earnings are estimated at $77 million (Level I projected after-tax net earnings, optimal scenario; the details on Level II and III revenue chains are unavailable at this time, but we expect them to surpass our Level I, which forms the base revenue).
 
-You may request an investor information package by contacting us directly at info@ranktheglobe.com, with your legal name, contact information, business details (if applicable), and any other info of relevance. Class A, B and C shares are available for purchase.
+You may request a copy of our investor information package by contacting us directly at info@ranktheglobe.com, with your legal name, contact information, business details (if applicable), and any other info of relevance. Class A, B and C shares are available for purchase.
 
 ## David's Portfolio of Spatial Informatics, GIS & RE Financial Modeling (Archived)
 
