@@ -98,18 +98,25 @@ Section Navigation:
 <img src="images/sc1b.gif?raw=true"/>
 Selected from a number of comparable test-of-change and AI projects across the province and hailed as "The Gold Standard" by the Ontario Government, the state-of-the-art spatial prediction models and associated automated components were designed and built by David, the sole expert who represented Southlake & Ontario Health (SCOHT) at multiple interagency committees and working groups. Among the participants were ESRI and Carleton University Department of Health Informatics. The models enabled the automatic GWR modeling of any designated urban region, which resulted in local predictor significance (adaptively classified by the proxy statistic β coefficient/SE). β/SE is a GWR proxy for local predictor significance; its statistical thresholds are used to determine the level of significance (-2 to 2), which is made conceptually intuitive to the users (e.g. "Statistically Relevant (-)"). Positively correlated (+): e.g. + income, + screening rate; Negatively correlated (-): e.g. + income, - screening rate. Local Significance adapts to the unique characteristics of the neighborhoods (or Dissemination Areas) through the GWR spatial and local weightings (e.g. adaptive bandwidth/Gaussian), and does not necessarily imply that a DA should adapt to the overall significance in a specific direction of a relationship (i.e. Simpson’s Paradox). “Locally significant” means that the predictor is showing a high significance (i.e. systematic non-random pattern) on the dependent variable (e.g. Rate of Cancer Screening) at the given Dissemination Area in the given direction of a relationship (+ or -). In short, local interventions in such areas are deemed relevant with a high magnitude of effect relative to any predictors not deemed relevant/not selected. Study designs such as RCT trials, which account for temporal precedence and theoretical plausibility, could be then used to determine causal relationships, guiding actionable local interventions. 
 
+---
 
 - [GWR Auto-Prediction Results Published in Interactive Web App - Region: East Toronto Unincorporated Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
 <img src="images/sc2b.gif?raw=true"/>
 The models were tested, independently evaluated, and successfully replicated in another urban region, which produced adaptive results and new insights for policymakers; particularly worth noting was that urban areas were better generalized by the existing ONMarg Indicators than areas of suburban/rural setting. GWR performance also scales with the unit of measurement (generally, the smaller the better, e.g. block groups, if available, tend to produce more substantial results than dissemination areas) 
 
+---
+
 - [Penn Exhibition Website: Urban Real Estate Valuation Tool (Standalone & Portable) (programmed in Python), 2021](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
 <img src="images/sc3.png?raw=true"/>
 This adaptive spatial prediction model David designed allows RE investors to identify high-return RE investment opportunities in adjoining neighborhoods pending population growth in any designated urban region, in addition to generating reliable assessment figures for insurance companies and tax agencies (parameters such as regional inflation rate, 10-year risk-free interest rate, and construction cost psf can be auto-detected from the model inputs and plugged into predefined equations, given correct field names).
 
+---
+
 - [Ontario Investment Office Interactive Web App, (programmed in Javascript), 2018](https://www.investontario.ca/sites-ontario#certsite-map)
 <img src="images/sc5_1.gif?raw=true"/>
 An example of an embedded interative web app built from scratch in JavaScript (JS), HTML and CSS by David. (note: there were slight modifications made by others in recent years).
+
+---
 
 - [Spatial Statistics, Machine & Deep Learning Modeling Guide by David Pan (with in-built Excel selection tools)](/pdf/quick_stats_helper_061022p_f.xlsx)
 <img src="images/sc4b.gif?raw=true"/>
@@ -150,6 +157,8 @@ David's automated model/test selectors + modeling guide, among other productivit
 
 - [Models for Case 2: Real Estate Private Equity Fund: Waterfall Structure (2021), David Pan & Theodore Lewis - REAL 840: Advanced Real Estate Investments and Analysis†](https://www.wharton.upenn.edu/)
 <img src="images/model2.png?raw=true"/>
+
+---
 
 - [Models for Case 1: Advanced Real Estate Proforma Analysis/ Land Purchase Price Estimation, Washington DC (2021), David Pan & Theodore Lewis - REAL 840†](https://www.wharton.upenn.edu/)
 <img src="images/model1.jpg?raw=true"/>
