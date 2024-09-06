@@ -1,5 +1,3 @@
-## David's Portfolio of Spatial Informatics, GIS & RE Financial Modeling (Archived)
-
 <head>
 <style>
 ul {
@@ -30,10 +28,22 @@ li a.active {
 </style>
 </head>
 
+## The W App (2023 to Present)
+
+W is the flagship product of World Ranking, Inc. a crowd-source ranking institute.
+
+[Get onboard W in 45 seconds](https://support.ranktheglobe.com/en/articles/8854815-welcome)
+<img src="images/quickstart_guide.png?raw=true"/>
+
+If you're looking for a long-term investment in a startup, then look no further. Our resilient capital structure, commitment to high product standards, and relatively low operating costs; give us every assurance that WR is built to last. The yearly net earnings are estimated at $77 million (Level I projected after-tax net earnings, optimal scenario; the details on Level II and III revenue chains are unavailable at this time, but we expect them to surpass our Level I, which forms the base revenue).
+
+You may request an investor information package by contacting us directly at info@ranktheglobe.com, with your legal name, contact information, business details (if applicable), and any other info of relevance. Class A, B and C shares are available for purchase.
+
+## David's Portfolio of Spatial Informatics, GIS & RE Financial Modeling (Archived)
 
 ---
 
-**Note: This is an archived page of David's Academic/ Early Professional portfolio, which is no longer in use. Our tech firm has little to do with Spatial Analytics, or RE Investments for that matter**
+**Note: Below is an archived page of David's Academic/ Early Professional portfolio, which is no longer in use.**
 
 **Disclaimer: By downloading, accessing or using any content from this website, you agree that you are doing so at your sole risk, and for educational purposes only**
 
@@ -59,12 +69,21 @@ Section Navigation:
 - [Southlake-Ontario Health Cancer Screening Test of Change (to be deployed provincially), GWR Auto-Prediction Results Published via Interactive App,  Region: SCOHT Area (pipeline programmed in Python), 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
 <img src="images/sc1b.gif?raw=true"/>
 
-Selected from a number of comparable test-of-change and AI projects across the province and hailed as "The Gold Standard" by the Ontario Government, the state-of-the-art spatial prediction models and associated automated components were designed and programmed by David, the sole expert who represented Southlake & Ontario Health (SCOHT) at multiple interagency committees and working groups. Among the participants were ESRI and Carleton University Department of Health Informatics. The models enabled the automatic GWR modeling of any designated urban region, which resulted in local predictor significance (adaptively classified by the proxy statistic β coefficient/SE). Navigate the "Scrollable Instructions"" for more info on the project and how the proxy statistic should be interpreted.
+Selected from a number of comparable test-of-change and AI projects across the province and hailed as "The Gold Standard" by the Ontario Government, the state-of-the-art spatial prediction models and associated automated components were designed and built by David, the sole expert who represented Southlake & Ontario Health (SCOHT) at multiple interagency committees and working groups. Among the participants were ESRI and Carleton University Department of Health Informatics. The models enabled the automatic GWR modeling of any designated urban region, which resulted in local predictor significance (adaptively classified by the proxy statistic β coefficient/SE).
+
+β/SE is a GWR proxy for local predictor significance; its statistical thresholds are used to determine the level of significance (-2 to 2), which is made conceptually intuitive to the users (e.g. "Statistically Relevant (-)"). Local Significance adapts to the unique characteristics of the neighborhoods (or Dissemination Areas) through the GWR spatial and local weightings (e.g. adaptive bandwidth/Gaussian), and does not necessarily imply that a DA should adapt to the overall significance in a specific direction of a relationship (i.e. Simpson’s Paradox). “Locally significant” means that the predictor is showing a high significance (i.e. systematic non-random pattern) on the dependent variable (e.g. Rate of Cancer Screening) at the given Dissemination Area in the given direction of a relationship (+ or -). In short, local interventions in such areas are deemed relevant with a high magnitude of effect relative to any predictors not deemed relevant/not selected. Study designs such as RCT trials, which account for temporal precedence and theoretical plausibility, could be then used to determine causal relationships, guiding actionable local interventions.
+
+Positively correlated (+)
+e.g. + income, + screening rate
+
+Negatively correlated (-)
+e.g. + income, - screening rate
+
 
 - [GWR Auto-Prediction Results Published in Interactive Web App - Region: East Toronto Unincorporated Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
 <img src="images/sc2b.gif?raw=true"/>
 
-The models were tested, independently evaluated, and successfully replicated in another urban region, which produced adaptive results and new insights for policymakers; worth noting was that urban areas were better generalized by the existing ONMarg Indicators than areas of suburban/rural setting. GWR performance also scales with the unit of measurement (generally, the smaller the better, e.g. block groups, if available, tend to produce more useful results than dissemination areas) 
+The models were tested, independently evaluated, and successfully replicated in another urban region, which produced adaptive results and new insights for policymakers; particularly worth noting was that urban areas were better generalized by the existing ONMarg Indicators than areas of suburban/rural setting. GWR performance also scales with the unit of measurement (generally, the smaller the better, e.g. block groups, if available, tend to produce more substantial results than dissemination areas) 
 
 - [Penn Exhibition Website: Urban Real Estate Valuation Tool (Standalone & Portable) (programmed in Python), 2021](https://www.design.upenn.edu/yes2021/reassessing-home-values-philadelphia)
 <img src="images/sc3.png?raw=true"/>
@@ -184,7 +203,7 @@ David's automated model/test selectors + modeling guide, among other productivit
 ---
 
 
-<i>DAVID'S PORTFOLIO OF SPATIAL INFORMATICS, GIS & RE FINANCIAL MODELING (2014-2021)</i>
+<i>DAVID'S PORTFOLIO OF SPATIAL INFORMATICS, GIS & RE FINANCIAL MODELING (©2014-2021)</i>
 
 
 ---
