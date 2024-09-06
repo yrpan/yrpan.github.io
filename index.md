@@ -38,7 +38,8 @@ li a.active {
 W is the flagship product of World Ranking, Inc. ("WR"), a crowd-source ranking institute and private corporation.
 
 -	<a href="https://support.ranktheglobe.com/en/articles/8854815-welcome">Get onboard W in 45 seconds</a>
-<br>
+
+W Quickstart Guide:
 <img src="images/quickstart_guide_s.png?raw=true"/>
 
 If you're looking for a long-term investment in a startup, then look no further. Our resilient capital structure, commitment to high product standards, and relatively low operating costs; give us every assurance that WR is built to last. The yearly net earnings are estimated at $77 million (Level I projected after-tax net earnings, for user base of 1 million, optimal scenario; the details on Level II and III revenue chains are unavailable at this time, but we expect them to surpass our Level I, which forms the base revenue).
