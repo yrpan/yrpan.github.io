@@ -56,7 +56,7 @@ You may request a copy of our investor information package by contacting us dire
 ---
 ## David's Portfolio of Conceptual Art & Design
 
-Selected original artworks of David span acrylic paintings (e.g. the mythic golden eagle, the future city), sketches, and digital models
+Selected original artworks of David span acrylic paintings (e.g. the mythic golden eagle), sketches (e.g. the maglev car), and digital models (e.g. the future city)
 
 <img src="images/golden_eagle.png?raw=true"/>
 
