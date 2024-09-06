@@ -39,9 +39,12 @@ W is the flagship product of World Ranking, Inc. ("WR"), a crowd-source ranking 
 
 -	<a href="https://support.ranktheglobe.com/en/articles/8854815-welcome">Get onboard W in 45 seconds</a>
 
-### W Quickstart Guide:
 <br>
+
+### W Quickstart Guide:
+
 <img src="images/quickstart_guide_s.png?raw=true"/>
+
 <br>
 
 ### Note:
