@@ -37,11 +37,11 @@ li a.active {
 
 ---
 
-## The W App (2023—)
+## W: Interactive Rankings & More (2023—)
 
-W is the flagship product of World Ranking, Inc. ("WR"), a crowd-source ranking institute and private corporation.
+W is the flagship product of World Ranking, Inc. ("WR"), a crowd-source ranking institute and private corporation. 
 
--	<a href="https://support.ranktheglobe.com/en/articles/8854815-welcome">Get onboard W in 45 seconds</a>
+-	<a href="https://support.ranktheglobe.com/hc/en-us/articles/36039681022099-Welcome">Get onboard W in 45 seconds</a>
 
 <br>
 
