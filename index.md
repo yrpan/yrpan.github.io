@@ -37,15 +37,15 @@ li a.active {
 
 ---
 
-## W: Interactive Rankings & More (2023—)
+## Rank The Globe™ (2023—)
 
-W is the flagship product of World Ranking, Inc. ("WR"), a crowd-source ranking institute and private corporation. 
+Rank The Globe™ is the flagship product of World Ranking, Inc. ("WR"), a crowd-source ranking institute and private corporation. 
 
--	<a href="https://support.ranktheglobe.com/hc/en-us/articles/36039681022099-Welcome">Get onboard W in 45 seconds</a>
+-	<a href="https://support.ranktheglobe.com/hc/en-us/articles/36039681022099-Welcome">Get onboard Rank The Globe™ in 45 seconds</a>
 
 <br>
 
-### W Quickstart Guide:
+### Quickstart Guide of W: Interactive Rankings & More (now "Rank The Globe"):
 
 <img src="images/quickstart_guide_s.png?raw=true"/>
 
