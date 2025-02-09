@@ -39,7 +39,7 @@ li a.active {
 
 ## Rank The Globe™ (2023—)
 
-Rank The Globe™ is the flagship product of World Ranking, Inc. ("WR"), a crowd-source ranking institute and private corporation. 
+Rank The Globe™ is the flagship product of World Ranking, Inc. ("WR"), a crowd-source ranking institute and private corporation.
 
 -	<a href="https://support.ranktheglobe.com/hc/en-us/articles/36039681022099-Welcome">Get onboard Rank The Globe™ in 45 seconds</a>
 
@@ -94,13 +94,13 @@ Section Navigation:
 
 ### Selected Corporate Projects & Exhibits
 
-- [Southlake-Ontario Health Cancer Screening Test of Change (to be deployed provincially), GWR Auto-Prediction Results Published via Interactive App,  Region: SCOHT Area (pipeline programmed in Python), 2022-2023](http://experience.arcgis.com/experience/6467ba98852e4966ae0a87810ebc48b3/)
+- [Southlake-Ontario Health Cancer Screening Test of Change (to be deployed provincially), GWR Auto-Prediction Results Published via Interactive App,  Region: SCOHT Area (pipeline programmed in Python), 2022-2023](https://southlake.ca/)
 <img src="images/sc1b.gif?raw=true"/>
 Selected from a number of comparable test-of-change and AI projects across the province and hailed as "The Gold Standard" by the Ontario Government, the state-of-the-art spatial prediction models and associated automated components were designed and built by David, the sole expert who represented Southlake & Ontario Health (SCOHT) at multiple interagency committees and working groups. Among the participants were ESRI and Carleton University Department of Health Informatics. The models enabled the automatic GWR modeling of any designated urban region, which resulted in local predictor significance (adaptively classified by the proxy statistic β coefficient/SE). β/SE is a GWR proxy for local predictor significance; its statistical thresholds are used to determine the level of significance (-2 to 2), which is made conceptually intuitive to the users (e.g. "Statistically Relevant (-)"). Positively correlated (+): e.g. + income, + screening rate; Negatively correlated (-): e.g. + income, - screening rate. Local Significance adapts to the unique characteristics of the neighborhoods (or Dissemination Areas) through the GWR spatial and local weightings (e.g. adaptive bandwidth/Gaussian), and does not necessarily imply that a DA should adapt to the overall significance in a specific direction of a relationship (i.e. Simpson’s Paradox). “Locally significant” means that the predictor is showing a high significance (i.e. systematic non-random pattern) on the dependent variable (e.g. Rate of Cancer Screening) at the given Dissemination Area in the given direction of a relationship (+ or -). In short, local interventions in such areas are deemed relevant with a high magnitude of effect relative to any predictors not deemed relevant/not selected. Study designs such as RCT trials, which account for temporal precedence and theoretical plausibility, could be then used to determine causal relationships, guiding actionable local interventions. 
 
 ---
 
-- [GWR Auto-Prediction Results Published in Interactive Web App - Region: East Toronto Unincorporated Area, 2022-2023](http://experience.arcgis.com/experience/5d16d45398b04a5480f056b0bd9f718b/)
+- [GWR Auto-Prediction Results Published in Interactive Web App - Region: East Toronto Unincorporated Area, 2022-2023](https://southlake.ca/)
 <img src="images/sc2b.gif?raw=true"/>
 The models were tested, independently evaluated, and successfully replicated in another urban region, which produced adaptive results and new insights for policymakers; particularly worth noting was that urban areas were better generalized by the existing ONMarg Indicators than areas of suburban/rural setting. GWR performance also scales with the unit of measurement (generally, the smaller the better, e.g. block groups, if available, tend to produce more substantial results than dissemination areas) 
 
