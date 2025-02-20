@@ -45,9 +45,9 @@ Rank The Globe™ is the flagship product of World Ranking, Inc. ("WR"), a crowd
 
 <br>
 
-### Quickstart Guide of W: Interactive Rankings & More (now "Rank The Globe"):
+### Quickstart Guide of Rank The Globe™ (formerly "W: Interactive Rankings & More"):
 
-<img src="images/quickstart_guide_new_s.png?raw=true"/>
+<img src="images/quickstart_guide_new.png?raw=true"/>
 
 <br>
 
