@@ -72,7 +72,7 @@ Selected original artworks of David span acrylic paintings (e.g. the mythic gold
 
 ---
 
-**Note:** Below is an archived page of David's Academic/ Early Professional portfolio, which is no longer in use.
+**Note:** Below is an archived page of David's Professional/Academic portfolio, which is not currently in use.
 
 **Disclaimer: By downloading, accessing or using any content from this website, you agree that you are doing so at your sole risk, and for educational purposes only**
 
@@ -94,13 +94,17 @@ Section Navigation:
 
 ### Selected Corporate Projects & Exhibits
 
-- [Southlake-Ontario Health Cancer Screening Test of Change (to be deployed provincially), GWR Auto-Prediction Results Published via Interactive App,  Region: SCOHT Area (pipeline programmed in Python), 2022-2023](https://southlake.ca/)
+- [Southlake HealthGAP Web App (pipeline programmed in Python, VBA), 2024—Present ](https://southlake.ca/)
+<img src="images/schg1.png?raw=true"/>
+David's automated pipeline runs from the pre-processing of raw data (e.g. auto -cleaning, -partitioning and -formatting of raw census data, raw PCCF txts, raw database extracts..), through the advanced ETLs and spatial predictions, to the mass display configurations; which has shortened Southlake's Spatial Analytics' primary workflow from weeks in length to a single day. The high-utility Southlake HealthGAP Web App, which depends on this pipeline, comes furnished with 50+ insightful indicators, spatial predictions, and more. 
+
+- [Southlake-Ontario Health Cancer Screening Test of Change (deployable provincially), GWR Auto-Prediction Results Published on Interactive Web App,  Region: SCOHT Area (pipeline programmed in Python), 2022—2023](https://southlake.ca/)
 <img src="images/sc1b.gif?raw=true"/>
-Selected from a number of comparable test-of-change and AI projects across the province and hailed as "The Gold Standard" by the Ontario Government, the state-of-the-art spatial prediction models and associated automated components were designed and built by David, the sole expert who represented Southlake & Ontario Health (SCOHT) at multiple interagency committees and working groups. Among the participants were ESRI and Carleton University Department of Health Informatics. The models enabled the automatic GWR modeling of any designated urban region, which resulted in local predictor significance (adaptively classified by the proxy statistic β coefficient/SE). β/SE is a GWR proxy for local predictor significance; its statistical thresholds are used to determine the level of significance (-2 to 2), which is made conceptually intuitive to the users (e.g. "Statistically Relevant (-)"). Positively correlated (+): e.g. + income, + screening rate; Negatively correlated (-): e.g. + income, - screening rate. Local Significance adapts to the unique characteristics of the neighborhoods (or Dissemination Areas) through the GWR spatial and local weightings (e.g. adaptive bandwidth/Gaussian), and does not necessarily imply that a DA should adapt to the overall significance in a specific direction of a relationship (i.e. Simpson’s Paradox). “Locally significant” means that the predictor is showing a high significance (i.e. systematic non-random pattern) on the dependent variable (e.g. Rate of Cancer Screening) at the given Dissemination Area in the given direction of a relationship (+ or -). In short, local interventions in such areas are deemed relevant with a high magnitude of effect relative to any predictors not deemed relevant/not selected. Study designs such as RCT trials, which account for temporal precedence and theoretical plausibility, could be then used to determine causal relationships, guiding actionable local interventions. 
+Selected from across a number of comparable test-of-change and AI projects by the Ontario Government as the gold standard, David's automated pipeline enabled the automatic GWR modeling of any designated urban region, which resulted in local predictor significance (adaptively classified by the proxy statistic β coefficient/SE). β/SE is a GWR proxy for local predictor significance; its statistical thresholds are used to determine the level of significance (-2 to 2), which is made conceptually intuitive to end users (e.g. "Statistically Relevant (+ or -)"); Positively correlated (+): e.g. + income, + screening rate; Negatively correlated (-): e.g. + income, - screening rate. Local Significance adapts to the unique characteristics of the neighborhoods (e.g. dissemination areas, block groups...) through the GWR spatial and local weightings (e.g. adaptive bandwidth/Gaussian), and does not necessarily imply that a DA should adapt to the overall significance in a specific direction of a relationship (i.e. Simpson’s Paradox). “Locally significant” means that the predictor is showing a high significance (i.e. systematic non-random pattern) on the dependent variable (e.g. Rate of Cancer Screening or Rate of ED Usage) at the given Dissemination Area in the given direction of a relationship (+ or -). In short, local interventions in such areas are deemed relevant with a high magnitude of effect relative to any predictors not deemed relevant/not selected. Study designs such as RCT trials, which account for temporal precedence and theoretical plausibility, could be then used to determine causal relationships, guiding actionable local interventions.
 
 ---
 
-- [GWR Auto-Prediction Results Published in Interactive Web App - Region: East Toronto Unincorporated Area, 2022-2023](https://southlake.ca/)
+- [GWR Auto-Prediction Results Published on Interactive Web App - Region: East Toronto Unincorporated Area, 2022—2023](https://southlake.ca/)
 <img src="images/sc2b.gif?raw=true"/>
 The models were tested, independently evaluated, and successfully replicated in another urban region, which produced adaptive results and new insights for policymakers; particularly worth noting was that urban areas were better generalized by the existing ONMarg Indicators than areas of suburban/rural setting. GWR performance also scales with the unit of measurement (generally, the smaller the better, e.g. block groups, if available, tend to produce more substantial results than dissemination areas) 
 
@@ -120,7 +124,7 @@ An example of an embedded interative web app built from scratch in JavaScript (J
 
 - [Spatial Statistics, Machine & Deep Learning Modeling Guide by David Pan (with in-built Excel selection tools)](/pdf/quick_stats_helper_061022p_f.xlsx)
 <img src="images/sc4b.gif?raw=true"/>
-David's automated model/test selectors + modeling guide, among other productivity tools, were previously published on the Ivy League Education website TSL. This popular free tool, a.k.a. the "Quick Stats Helper," has educated and helped academics, students and professionals alike as they engage in statistical modeling/learning; and was used by organizations such as Carleton University's Health Sciences & Informatics Department
+David's automated model/test selectors + modeling guide, among other productivity tools, were previously published on the Ivy League Education website TSL. This popular free tool, a.k.a. the "Quick Stats Helper," has educated and helped academics, students and professionals alike as they engage in statistical modeling/learning
 
 ---
 
