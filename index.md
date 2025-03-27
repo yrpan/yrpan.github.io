@@ -94,7 +94,7 @@ Section Navigation:
 
 ### Selected Corporate Projects & Exhibits
 
-- [Southlake HealthGAP Web App (pipeline programmed in Python, VBA), Region: Province of Ontario (entirety), DV: ED Usage Rate, 2024—Present ](https://southlake.ca/)
+- [Southlake HealthGAP Web App, Region: Province of Ontario (entirety), DV: ED Usage Rate, (pipeline programmed in Python, VBA), 2024—Present ](https://southlake.ca/)
 <img src="images/schg1.png?raw=true"/>
 David's automated pipeline runs from the pre-processing of raw data (e.g. auto -cleaning, -partitioning and -formatting of raw census data, raw PCCF txts, raw database extracts..), through the advanced ETL and spatial predictions, to the mass display configurations; which has shortened Southlake's Spatial Analytics' primary workflow from weeks in length to a single day. The high-utility Southlake HealthGAP Web App, which depends on this pipeline, comes readily furnished with 50+ insightful indicators, spatial predictions, and more. 
 
