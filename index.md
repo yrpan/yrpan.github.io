@@ -41,7 +41,7 @@ li a.active {
 
 Rank The Globe™ is the flagship product of World Ranking, Inc. ("WR"), a crowd-source ranking institute and private corporation.
 
--	<a href="https://support.ranktheglobe.com/hc/en-us/articles/36039681022099-Welcome">Get onboard Rank The Globe™ in 45 seconds</a>
+-	<a href="https://support.ranktheglobe.com/article/34-get-started-here">Get onboard Rank The Globe™ in 45 seconds</a>
 
 <br>
 
