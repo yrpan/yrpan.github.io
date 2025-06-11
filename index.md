@@ -51,11 +51,11 @@ Rank The Globe™ is the flagship product of World Ranking, Inc. ("WR"), a crowd
 
 <br>
 
-### Note:
+### Note to Prospective Investors:
 
 If you're looking for a long-term investment in a startup, then look no further. Our resilient capital structure, commitment to high product standards, and relatively low operating costs; give us every assurance that WR is built to last. The yearly net earnings are estimated at $77 million (Level I projected after-tax net earnings, for 1 million MAUs, optimal scenario, post-stabilization; the details on Level II and III revenue chains are unavailable at this time, but we expect them to surpass our Level I, which forms the base revenue).
 
-You may request a copy of our investor information package by contacting us directly at info@ranktheglobe.com, with your legal name, contact information, business details (if applicable), and any other info of relevance. Class A, B and C shares are available for purchase to eligible investors.
+You may request a copy of our investor information package by contacting us directly at info@ranktheglobe.com, with your legal name, contact information, business details (if applicable), and any other relevant info. Class A, B and C shares are available for purchase to eligible investors.
 
 ---
 ## David's Portfolio of Conceptual Art & Design
@@ -72,7 +72,7 @@ Selected original artworks of David span acrylic paintings (e.g. the mythic gold
 
 ---
 
-**Note:** Below is an archived page of David's Professional/Academic portfolio, which is not currently in use.
+**Note:** Below is an archived page of David's Professional/Academic portfolio.
 
 **Disclaimer: By downloading, accessing or using any content from this website, you agree that you are doing so at your sole risk, and for educational purposes only**
 
