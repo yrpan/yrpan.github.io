@@ -39,7 +39,7 @@ li a.active {
 
 ## Rank The Globe™ (2023—)
 
-Rank The Globe™ is the flagship product of World Ranking, Inc. ("WR"), a crowd-source ranking institute and private corporation.
+Rank The Globe™ by World Ranking, Inc. is the world's most transparent consumer protection companion app: consumer rankings & ratings, chats, social games and more.
 
 -	<a href="https://support.ranktheglobe.com/article/34-get-started-here">Get onboard Rank The Globe™ in 45 seconds</a>
 
@@ -51,13 +51,8 @@ Rank The Globe™ is the flagship product of World Ranking, Inc. ("WR"), a crowd
 
 <br>
 
-### Note to Prospective Investors:
-
-If you're looking for a long-term investment in a startup, then look no further. Our resilient capital structure, commitment to high product standards, and relatively low operating costs; give us every assurance that WR is built to last. The yearly net earnings are estimated at $77 million (Level I projected after-tax net earnings, for 1 million MAUs, optimal scenario, post-stabilization; the details on Level II and III revenue chains are unavailable at this time, but we expect them to surpass our Level I, which forms the base revenue).
-
-You may request a copy of our investor information package by contacting us directly at info@ranktheglobe.com, with your legal name, contact information, business details (if applicable), and any other relevant info. Class A, B and C shares are available for purchase to eligible investors.
-
 ---
+
 ## David's Portfolio of Conceptual Art & Design
 
 Selected original artworks of David span acrylic paintings (e.g. the mythic golden eagle), sketches (e.g. the maglev car), and digital models (e.g. the future city)
