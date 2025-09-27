@@ -40,7 +40,7 @@ li a.active {
 
 ## The Bestiary of Higher Dimensionals (2025)
 
-Stage of Excavation: Ancient Knowledge ⇒ Forbidden knowledge.
+Stage of Excavation: Ancient Knowledge ⇒ Forbidden Knowledge.
 
 -	<a href="https://yrpan.github.io/bestiary/">Open The Bestiary</a>
 
