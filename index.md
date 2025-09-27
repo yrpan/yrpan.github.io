@@ -38,11 +38,13 @@ li a.active {
 
 ---
 
-## The Bestiary of Higher Dimensionals (2025), Y.R. (David) Pan
+## The Bestiary of Higher Dimensionals (2025)
 
 Stage of Excavation: Ancient Knowledge ⇒ Forbidden knowledge.
 
 -	<a href="https://yrpan.github.io/bestiary/">Open The Bestiary</a>
+
+<br>
 
 <img src="images/bestiary.png?raw=true"/>
 
