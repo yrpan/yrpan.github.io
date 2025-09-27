@@ -35,6 +35,20 @@ li a.active {
 </style>
 </head>
 
+
+---
+
+## The Bestiary of Higher Dimensionals (2025), Y.R. (David) Pan
+
+Stage of Excavation: Ancient Knowledge ⇒ Forbidden knowledge.
+
+-	<a href="https://yrpan.github.io/bestiary/">Open The Bestiary</a>
+
+<img src="images/bestiary.png?raw=true"/>
+
+<br>
+
+
 ---
 
 ## Rank The Globe™ (2023—)
@@ -45,7 +59,7 @@ Rank The Globe™ by World Ranking, Inc. is the world's most transparent consume
 
 <br>
 
-### Quickstart Guide of Rank The Globe™ (formerly "W: Interactive Rankings & More"):
+### Quickstart Guide of Rank The Globe™
 
 <img src="images/quickstart_guide_new_hd.png?raw=true"/>
 
@@ -91,7 +105,7 @@ Section Navigation:
 
 - [Southlake HealthGAP Web App, Region: Province of Ontario (entirety), DV: ED Usage Rate, (pipeline programmed in Python, VBA), 2024—Present ](https://southlake.ca/)
 <img src="images/schg1.png?raw=true"/>
-David's automated pipeline runs from the pre-processing of raw data (e.g. auto -cleaning, -partitioning and -formatting of raw census data, raw PCCF txts, raw database extracts..), through the advanced ETL and spatial predictions, to the mass display configurations; which has shortened Southlake's Spatial Analytics' primary workflow from weeks in length to a single day. The high-utility Southlake HealthGAP Web App, which depends on this pipeline, comes readily furnished with 50+ insightful indicators, spatial predictions, and more. 
+David's automated pipeline runs from the pre-processing of raw data (e.g. auto -cleaning, -partitioning and -formatting of raw census data, raw PCCF txts, raw database extracts..), through the advanced ETL and spatial predictions, to the mass display configurations; which has shortened Southlake's Spatial Analytics' primary workflow from weeks in length to a single day. The high-utility Southlake HealthGAP Web App, which depends on this pipeline, comes readily furnished with 70+ insightful indicators, spatial predictions, and more. 
 
 ---
 
