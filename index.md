@@ -40,7 +40,7 @@ li a.active {
 
 ## The Bestiary of Higher Dimensionals (2025)
 
-Stage of Excavation: Ancient Knowledge ⇒ Forbidden Knowledge.
+Stage of Excavation: Ancient Knowledge ⇒ Forbidden Knowledge. The Bestiary is one of the key sections of Y.R. (David) Pan's book on ancient philosophies. 
 
 -	<a href="https://yrpan.github.io/bestiary/">Open ❃The Bestiary❃</a>
 
