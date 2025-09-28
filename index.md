@@ -1,6 +1,16 @@
 ## Official Profile & Portfolios
 
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DT87ZHZK9Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DT87ZHZK9Y');
+</script>
+
 <style>
 body, * {
   font-family: "Times New Roman", Times, serif !important;
@@ -12,12 +22,12 @@ ul {
   margin: 0;
   padding: 0;
   width: 90%;
-  background-color: #F0F8FF;
-  border: 1px solid #1DAFEA;
+  background-color: #B7C9E2;
+  border: 1px solid #F0F8FF;
 }
 
 ul li {
-  border-bottom: 1px solid #1DAFEA;
+  border-bottom: 1px solid #F0F8FF;
 }
 
 li a {
