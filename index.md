@@ -2,6 +2,10 @@
 
 <head>
 <style>
+body, * {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
