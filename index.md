@@ -12,7 +12,7 @@ ul {
   margin: 0;
   padding: 0;
   width: 90%;
-  background-color: #F8F8F8;
+  background-color: #F0F8FF;
   border: 1px solid #1DAFEA;
 }
 
