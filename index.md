@@ -22,18 +22,18 @@ ul li {
 
 li a {
   display: block;
-  color: #050A30;
+  color: #7393B3;
   padding: 8px 16px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color: #050A30;
+  background-color: #7393B3;
   color: white;
 }
 
 li a.active {
-  background-color: #050A30;
+  background-color: #7393B3;
   color: white;
 }
 
