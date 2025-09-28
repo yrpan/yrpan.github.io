@@ -4,6 +4,7 @@
 <style>
 body, * {
   font-family: "Times New Roman", Times, serif !important;
+  color: #29465B !important;
 }
 
 ul {
