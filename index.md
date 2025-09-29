@@ -63,7 +63,7 @@ The Bestiary is a compendium of the multivolume original works of Y.R. (David) P
 
 <br>
 
-<img src="images/bestiary.png?raw=true"/>
+<img src="images/bestiary.gif?raw=true"/>
 
 <br>
 
