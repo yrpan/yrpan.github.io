@@ -2,6 +2,16 @@
 
 <head>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DT87ZHZK9Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DT87ZHZK9Y');
+</script>
+
 <style>
 body, * {
   font-family: "Times New Roman", Times, serif !important;
@@ -40,15 +50,6 @@ li a.active {
 
 </style>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DT87ZHZK9Y"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-DT87ZHZK9Y');
-</script>
 </head>
 
 
