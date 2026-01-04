@@ -70,7 +70,7 @@ The Bestiary is a compendium of the multivolume original works of Y.R. (David) P
 
 ---
 
-## Rank The Globe™ (2023—25)
+## Rank The Globe™ (2023-25)
 
 Rank The Globe™ by World Ranking, Inc. is the world's most transparent consumer protection companion app: consumer rankings & ratings, chats, social games and more.
 
