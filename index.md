@@ -73,7 +73,7 @@ The Bestiary is a compendium of the multivolume original works of Y.R. (David) P
 
 A component of Y.R. Pan's Project Prometheus Fire
 
--	<a href="https://yrpan.github.io/catalog/">Access the catalogue/a>
+-	<a href="https://yrpan.github.io/catalog/">Access the catalogue</a>
 
 <br>
 
