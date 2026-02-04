@@ -71,7 +71,7 @@ The Bestiary is a compendium of the multivolume original works of Y.R. (David) P
 
 ## Catalogue of Contemporary Reality Distortions (2021-)
 
-A component of Y.R. Pan's Project Prometheus Fire
+A Piece of Y.R. Pan's Project Prometheus Fire
 
 -	<a href="https://yrpan.github.io/catalog/">Access the catalogue</a>
 
